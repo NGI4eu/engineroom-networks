@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "David Laniado"
+  },
+  "text": {
+    "more": "Network of links between Wikipedia articles around concept General Data Protection Regulation (GDPR).\nAll articles connected to Net neutrality through a loop of length 4 or shorter are shown.\nLarger node size and label correspond to higher LoopRank score. \n",
+    "intro": "Network of Wikipedia links around concept GDPR",
+    "title": "GDPR"
+  },
+  "legend": {
+    "edgeLabel": "Hyperlink between two articles",
+    "colorLabel": "Groups of densely connected nodes (clusters)",
+    "nodeLabel": "Wikipedia article"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 3,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
