@@ -1,0 +1,88 @@
+Id	Score
+Green computing	55.66667
+Performance per watt	5.5
+Energy Star	4.5
+Advanced Configuration and Power Interface	4.5
+Power management	4.33333
+Sleep mode	3.83333
+Hibernation (computing)	3.83333
+Standby power	3.83333
+80 Plus	3.5
+PC power management	3.16667
+Climate Savers Computing Initiative	2.83333
+Desktop computer	2.66667
+Advanced Power Management	2.5
+Supercomputer	2.33333
+Electronic waste	2.33333
+Faronics	2.16667
+Power usage effectiveness	2.16667
+Data center infrastructure efficiency	2.16667
+Efficient energy use	2.0
+The Green Grid	1.83333
+Computer cooling	1.66667
+Low-power electronics	1.66667
+Restriction of Hazardous Substances Directive	1.5
+Intel	1.33333
+Energy conservation	1.33333
+Waste Electrical and Electronic Equipment Directive	1.33333
+IT energy management	1.33333
+Timer coalescing	1.33333
+Green Electronics Council	1.16667
+IEEE 1680	1.16667
+United States Environmental Protection Agency	1.0
+CPU power dissipation	1.0
+SpeedStep	1.0
+Green chemistry	0.83333
+Green information system	0.83333
+BIOS	0.66667
+Central processing unit	0.66667
+Cathode ray tube	0.66667
+Power factor	0.66667
+Dell	0.66667
+Server farm	0.66667
+California Electronic Waste Recycling Act	0.66667
+LongHaul	0.66667
+SPECpower	0.66667
+Energy-Efficient Ethernet	0.66667
+Active State Power Management	0.66667
+Electronic Product Environmental Assessment Tool	0.66667
+Silicon Valley Toxics Coalition	0.5
+Virtual application	0.5
+Computational sustainability	0.5
+Advanced Micro Devices	0.33333
+China	0.33333
+Light-emitting diode	0.33333
+Mainframe computer	0.33333
+Thin client	0.33333
+Time-sharing	0.33333
+Recycling	0.33333
+Transmeta	0.33333
+VIA Technologies	0.33333
+Online shopping	0.33333
+Fujitsu Siemens Computers	0.33333
+Cool'n'Quiet	0.33333
+Parallel optical interface	0.33333
+LongRun	0.33333
+Digger gold	0.33333
+Desktop sharing	0.33333
+Solid-state drive	0.33333
+Challenging the Chip	0.33333
+Rebound effect (conservation)	0.33333
+Computer appliance	0.33333
+Battery recycling	0.33333
+PowerTOP	0.33333
+Green500	0.33333
+EDay	0.33333
+Plug computer	0.33333
+Hewlett-Packard	0.33333
+Watt	0.33333
+Active cable	0.33333
+1E	0.33333
+Thunderbolt (interface)	0.33333
+Sustainable Electronics Initiative	0.33333
+LatencyTOP	0.33333
+SPECvirt	0.33333
+Tsubame (supercomputer)	0.33333
+Apollo VP3	0.33333
+Energy Efficient Ethernet	0.33333
+Green Information Technology	0.33333

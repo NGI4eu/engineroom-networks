@@ -1,0 +1,132 @@
+Id	Score
+Open-source model	55.16667
+Open source	18.0
+Open-source hardware	7.83333
+Open-source	6.0
+Patent	5.5
+Tim O'Reilly	2.83333
+Application software	2.33333
+Open collaboration	1.83333
+Open Source	1.66667
+Open-source software	1.66667
+Open knowledge	1.66667
+Open design	1.33333
+Android (operating system)	1.33333
+Open content	1.0
+Source code	1.0
+The Open Group	1.0
+Open standard	1.0
+Openness	1.0
+Post-scarcity economy	1.0
+Free-culture movement	1.0
+Open-source religion	1.0
+Open-source software movement	1.0
+Bruce Perens	0.66667
+Sun Microsystems	0.66667
+Open system (computing)	0.66667
+ARPANET	0.66667
+Common good	0.66667
+Image scanner	0.66667
+MediaWiki	0.66667
+Open access	0.66667
+Shared source	0.66667
+List of open-source video games	0.66667
+JSON	0.66667
+Free and open-source software	0.66667
+Free Beer	0.66667
+Enterprise software	0.66667
+Open innovation	0.66667
+List of formerly proprietary software	0.66667
+Open Sources: Voices from the Open Source Revolution	0.66667
+Mass collaboration	0.66667
+Arduino	0.66667
+Linux	0.66667
+Freemium	0.66667
+Open data	0.66667
+Openmoko	0.66667
+Peter Suber	0.66667
+Open-source robotics	0.66667
+Open security	0.66667
+Open-source economics	0.66667
+The Open Solar Outdoors Test Field	0.66667
+Digital collaboration	0.66667
+Sharing economy	0.66667
+IBM	0.66667
+Open-source technology	0.5
+Biotechnology	0.33333
+Copyright	0.33333
+Computer program	0.33333
+Eric S. Raymond	0.33333
+Free software	0.33333
+House	0.33333
+Linus Torvalds	0.33333
+Monopoly	0.33333
+Netscape Navigator	0.33333
+Operating system	0.33333
+Project Gutenberg	0.33333
+Rice University	0.33333
+Spreadsheet	0.33333
+Blog	0.33333
+SPARC	0.33333
+Jamie Zawinski	0.33333
+License	0.33333
+Creative Commons	0.33333
+Simputer	0.33333
+Blueprint	0.33333
+Gift economy	0.33333
+Tar (computing)	0.33333
+Home automation	0.33333
+Appropriate technology	0.33333
+Guido van Rossum	0.33333
+Linux Journal	0.33333
+Open format	0.33333
+Michael Tiemann	0.33333
+Netscape Public License	0.33333
+Directory service	0.33333
+George B. Selden	0.33333
+OpenRISC	0.33333
+Brian Behlendorf	0.33333
+Open-source journalism	0.33333
+Pharmaceutical industry	0.33333
+Software license	0.33333
+IPTV	0.33333
+OpenSolaris	0.33333
+Open-source culture	0.33333
+3D printing	0.33333
+Jon Hall (programmer)	0.33333
+Google Scholar	0.33333
+PICMG	0.33333
+Budapest Open Access Initiative	0.33333
+Open-source governance	0.33333
+OpenSPARC	0.33333
+Open implementation	0.33333
+SHARE (computing)	0.33333
+Bill Hilf	0.33333
+Community source	0.33333
+Apache Hadoop	0.33333
+OpenJDK	0.33333
+Open-source curriculum	0.33333
+CcMixter	0.33333
+Open-source film	0.33333
+Open Source Hardware	0.33333
+VIA OpenBook	0.33333
+Derivative work	0.33333
+Digital Millennium Copyright Act	0.33333
+The Zeitgeist Movement	0.33333
+E-book	0.33333
+Open development	0.33333
+Mobile technology	0.33333
+Christine Peterson	0.33333
+Open Source Ecology	0.33333
+P2P Foundation	0.33333
+Lasersaur	0.33333
+Free license	0.33333
+Defense Distributed	0.33333
+Open source principles	0.33333
+Hyperloop	0.33333
+Tinkerforge	0.33333
+Bleeding Edge	0.33333
+WikiHouse	0.33333
+Inner source	0.33333
+Open source product development	0.33333
+Open source model	0.33333

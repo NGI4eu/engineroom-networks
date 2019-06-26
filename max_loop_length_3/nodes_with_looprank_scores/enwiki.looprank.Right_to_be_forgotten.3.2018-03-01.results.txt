@@ -1,0 +1,54 @@
+Id	Score
+Right to be forgotten	22.16667
+Freedom of speech	3.83333
+Google Spain v AEPD and Mario Costeja González	3.5
+General Data Protection Regulation	2.16667
+Privacy law	2.0
+Right to privacy	1.83333
+Internet privacy	1.5
+Google	1.33333
+Accountability	1.16667
+Streisand effect	0.83333
+Melvin v. Reid	0.83333
+Information privacy	0.66667
+Data Protection Directive	0.66667
+Fundamental rights	0.66667
+International Safe Harbor Privacy Principles	0.66667
+Wikipedia	0.66667
+Article 29 Data Protection Working Party	0.66667
+Digital privacy	0.66667
+EU-US Privacy Shield	0.66667
+Memory hole	0.5
+Rehabilitation of Offenders Act 1974	0.5
+The Red Kimono	0.5
+Martin v. Hearst Corporation	0.5
+Dato Capital	0.5
+Right to disconnect	0.5
+Tiziana Cantone	0.5
+Human rights	0.33333
+Internet	0.33333
+The New York Times	0.33333
+United States Constitution	0.33333
+Integrity	0.33333
+Business intelligence	0.33333
+Google Groups	0.33333
+RTBF	0.33333
+Freedom of speech in the United States	0.33333
+Commission nationale de l'informatique et des libertés	0.33333
+Regulatory compliance	0.33333
+Jimmy Wales	0.33333
+Jennifer Granick	0.33333
+Censorship by Google	0.33333
+Censorship	0.33333
+Dejan Lazić	0.33333
+Dejan Lazic	0.33333
+Consumer Watchdog	0.33333
+Freedom of expression	0.33333
+Spanish Data Protection Agency	0.33333
+Privacy concerns with social networking services	0.33333
+Revenge porn	0.33333
+Google v González	0.33333
+Bodil Lindqvist v Åklagarkammaren i Jönköping	0.33333
+Max Schrems	0.33333
+Privacy concerns regarding Google	0.33333
+Article 29 Working Party	0.33333

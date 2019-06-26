@@ -1,0 +1,237 @@
+Id	Score
+Fake news	163.33333
+CNN	25.83333
+Facebook	16.16667
+United States presidential election, 2016	13.5
+Propaganda	11.16667
+Fake news website	11.16667
+Social media	10.16667
+Disinformation	9.16667
+Donald Trump presidential campaign, 2016	8.83333
+Post-truth politics	6.5
+Pope Francis	5.5
+Fake news websites in the United States	5.5
+Filter bubble	4.5
+Pizzagate conspiracy theory	4.5
+Yellow journalism	4.16667
+Information warfare	3.83333
+Mainstream media	3.83333
+Gupta family	3.83333
+Sputnik (news agency)	3.5
+Holocaust denial	2.83333
+Donald Trump presidential campaign, 2020	2.83333
+Phishing	2.66667
+Tabloid journalism	2.66667
+RT (TV network)	2.66667
+Lying press	2.5
+The New York Times	2.33333
+Hoax	2.33333
+Alt-right	2.33333
+Michael Flynn	2.16667
+Alternative facts	2.16667
+Real News Update	2.16667
+Media Matters for America	2.0
+Paul Horner	2.0
+South African municipal elections, 2016	1.83333
+White Monopoly Capital	1.83333
+Psychological warfare	1.66667
+Drudge Report	1.66667
+Media manipulation	1.66667
+Alternative media	1.66667
+News satire	1.66667
+Kellyanne Conway	1.66667
+List of Facebook features	1.66667
+Media portrayal of the Ukrainian crisis	1.66667
+Murder of Seth Rich	1.66667
+News Feed	1.66667
+Fox News	1.33333
+Rumor	1.33333
+Active measures	1.33333
+Journalism ethics and standards	1.33333
+Misinformation	1.33333
+Mark Zuckerberg	1.33333
+Donald Trump	1.33333
+Islamic State of Iraq and the Levant	1.33333
+Twitter	1.33333
+Brendan Nyhan	1.16667
+Google Search	1.0
+Internet troll	1.0
+Media bias	1.0
+The Onion	1.0
+Instant messaging	1.0
+Bashar al-Assad	1.0
+Miloš Zeman	1.0
+FactCheck.org	1.0
+Hillary Clinton	1.0
+Paul Levinson	1.0
+Nicolás Maduro	1.0
+Bell Pottinger	1.0
+Politico	1.0
+Climate change denial	1.0
+Jim Acosta	1.0
+Demoralization (warfare)	1.0
+Hybrid warfare	1.0
+Reince Priebus	1.0
+Whataboutism	1.0
+Clickbait	1.0
+Corey Lewandowski	1.0
+Fancy Bear	1.0
+List of satirical news websites	1.0
+Presidency of Donald Trump	1.0
+Denver Guardian	1.0
+Ray Scott (Colorado politician)	0.83333
+African National Congress	0.66667
+Hamas	0.66667
+Internet	0.66667
+World Wide Web	0.66667
+Benjamin Netanyahu	0.66667
+Lee Kuan Yew	0.66667
+China Central Television	0.66667
+The Washington Post	0.66667
+Neologism	0.66667
+Peer pressure	0.66667
+Pseudohistory	0.66667
+Populism	0.66667
+Appeal to emotion	0.66667
+Daily Mirror	0.66667
+Critical thinking	0.66667
+CBS News	0.66667
+Snopes.com	0.66667
+Televisa	0.66667
+Euromyth	0.66667
+Google	0.66667
+Red states and blue states	0.66667
+Word of the year	0.66667
+List of premature obituaries	0.66667
+Fake news (disambiguation)	0.66667
+The Colbert Report	0.66667
+George Yeo	0.66667
+United States	0.66667
+Randal Marlin	0.66667
+Dilma Rousseff	0.66667
+Website spoofing	0.66667
+Eric Trump	0.66667
+Internet censorship	0.66667
+Rand Paul	0.66667
+Criticism of Facebook	0.66667
+The Guardian	0.66667
+Doublethink	0.66667
+BuzzFeed	0.66667
+NPR	0.66667
+Philip N. Howard	0.66667
+Viral phenomenon	0.66667
+Euromaidan	0.66667
+Media coverage of North Korea	0.66667
+The Intercept	0.66667
+Malaysia Airlines Flight 17	0.66667
+Fake News	0.66667
+Black First Land First	0.66667
+Internet manipulation	0.66667
+The Plot to Hack America	0.66667
+Craig Silverman	0.66667
+Augustus	0.33333
+Blood libel	0.33333
+Dartmouth College	0.33333
+Germany	0.33333
+Hong Kong	0.33333
+H. G. Wells	0.33333
+Information security	0.33333
+Joseph Goebbels	0.33333
+Myanmar	0.33333
+Mark Antony	0.33333
+NATO	0.33333
+Orson Welles	0.33333
+Poland	0.33333
+President of the United States	0.33333
+Rolling Stone	0.33333
+Spanish–American War	0.33333
+Defamation	0.33333
+Tim Berners-Lee	0.33333
+William Randolph Hearst	0.33333
+Havana	0.33333
+Wired (magazine)	0.33333
+DeQuincy, Louisiana	0.33333
+Internet censorship in China	0.33333
+Smartphone	0.33333
+NBC News	0.33333
+Northwestern University	0.33333
+Joseph Pulitzer	0.33333
+USS Maine (ACR-1)	0.33333
+Nightline	0.33333
+Public opinion	0.33333
+Sky News	0.33333
+Weekly World News	0.33333
+Lie	0.33333
+The Daily Show	0.33333
+Anti-establishment	0.33333
+Los Angeles Times	0.33333
+News media	0.33333
+ABC News	0.33333
+Headline	0.33333
+U.S. News & World Report	0.33333
+Justin Trudeau	0.33333
+Enemy of the people	0.33333
+AlterNet	0.33333
+Trend Micro	0.33333
+Fact checking	0.33333
+Walter Duranty	0.33333
+Colorado Senate	0.33333
+Political Warfare Executive	0.33333
+Kargil War	0.33333
+KTVK	0.33333
+Demarcation problem	0.33333
+Anti-German sentiment	0.33333
+Federal Intelligence Service (Germany)	0.33333
+Alarmism	0.33333
+BBC News	0.33333
+Waterloo Region Record	0.33333
+American Dialect Society	0.33333
+Political satire	0.33333
+Avigdor Lieberman	0.33333
+Broadcast journalism	0.33333
+HuffPost	0.33333
+Allies of World War II	0.33333
+Nibiru cataclysm	0.33333
+Propaganda in the United States	0.33333
+Cuba	0.33333
+Fearmongering	0.33333
+Scott Pelley	0.33333
+The Daily Beast	0.33333
+Soap made from human corpses	0.33333
+Israel	0.33333
+Univision Communications	0.33333
+Microblogging	0.33333
+CNNMoney	0.33333
+FiveThirtyEight	0.33333
+Matteo Renzi	0.33333
+The Daily Telegraph	0.33333
+French presidential election, 2017	0.33333
+PBS	0.33333
+Israel-related animal conspiracy theories	0.33333
+Pieter Omtzigt	0.33333
+International Business Times	0.33333
+Facebook News Feed	0.33333
+Treefort Music Fest	0.33333
+Atrocity propaganda	0.33333
+Lynn Beyak	0.33333
+World Socialist Web Site	0.33333
+State capture	0.33333
+Laura Boldrini	0.33333
+Heiko Maas	0.33333
+The Late Show with Stephen Colbert	0.33333
+Little green men (Ukrainian crisis)	0.33333
+Emmanuel Macron	0.33333
+Alex Younger	0.33333
+Sputnik News	0.33333
+Conservative Party of Canada leadership election, 2017	0.33333
+East StratCom Team	0.33333
+Impeachment of Dilma Rousseff	0.33333
+Fake news websites	0.33333
+2016 American Presidential Election	0.33333
+Sarah Huckabee Sanders	0.33333
+Lara Trump	0.33333
+Alt-lite	0.33333
+Sander van der Linden	0.33333
+Digiday	0.33333
+2017 Las Vegas shooting	0.33333
+Stoneman Douglas High School shooting	0.33333

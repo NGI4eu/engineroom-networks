@@ -1,0 +1,26 @@
+Source	Target
+Artificial intelligence	Ethics of artificial intelligence
+Artificial intelligence	Google
+Artificial intelligence	Joseph Weizenbaum
+Artificial intelligence	Machine learning
+Joseph Weizenbaum	Artificial intelligence
+Joseph Weizenbaum	Ethics of artificial intelligence
+Bias	Machine learning
+Machine learning	Algorithmic bias
+Machine learning	Artificial intelligence
+Machine learning	Ethics of artificial intelligence
+Ground truth	Machine learning
+Google	Artificial intelligence
+Google	Internet of things
+Google	Machine learning
+Internet of things	Google
+Internet of things	Machine learning
+Ethics of artificial intelligence	Algorithmic bias
+Ethics of artificial intelligence	Joseph Weizenbaum
+Algorithmic bias	Artificial intelligence
+Algorithmic bias	Bias
+Algorithmic bias	Google
+Algorithmic bias	Ground truth
+Algorithmic bias	Internet of things
+Algorithmic bias	Joseph Weizenbaum
+Algorithmic bias	Machine learning

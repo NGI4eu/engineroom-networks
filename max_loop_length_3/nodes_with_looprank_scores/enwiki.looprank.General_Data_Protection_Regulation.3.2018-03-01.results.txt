@@ -1,0 +1,38 @@
+Id	Score
+General Data Protection Regulation	17.0
+Data Protection Directive	4.83333
+Right to be forgotten	2.16667
+National data protection authority	2.0
+Data portability	1.83333
+Google Spain v AEPD and Mario Costeja González	1.83333
+Information privacy	1.66667
+Personally identifiable information	1.33333
+Jan Philipp Albrecht	1.16667
+Right to explanation	1.16667
+EPrivacy Regulation (European Union)	1.16667
+Tokenization (data security)	0.66667
+List of European Union directives	0.66667
+European Parliament Committee on Civil Liberties, Justice and Home Affairs	0.66667
+International Safe Harbor Privacy Principles	0.66667
+Article 29 Data Protection Working Party	0.66667
+Spanish Data Protection Agency	0.66667
+Privacy by design	0.5
+Directive (European Union)	0.33333
+Data Protection Commissioner	0.33333
+Mass surveillance	0.33333
+Data Protection Act 1998	0.33333
+Regulation (European Union)	0.33333
+Commission nationale de l'informatique et des libertés	0.33333
+Privacy policy	0.33333
+Data protection	0.33333
+Cyber-security regulation	0.33333
+Privacy law	0.33333
+Danish Data Protection Agency	0.33333
+Data governance	0.33333
+Directive 95/46/EC	0.33333
+Pseudonymization	0.33333
+European Data Protection Supervisor	0.33333
+Privacy and Electronic Communications Directive 2002	0.33333
+GDPR	0.33333
+Article 29 Working Party	0.33333
+NIS Directive	0.33333

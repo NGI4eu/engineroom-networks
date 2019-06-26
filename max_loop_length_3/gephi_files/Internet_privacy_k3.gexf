@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-06-26">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="score" title="score" type="double"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Apple Inc." label="Apple Inc.">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="436.47424" y="672.4144"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Facebook" label="Facebook">
+        <attvalues>
+          <attvalue for="score" value="11.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.667864"></viz:size>
+        <viz:position x="127.342445" y="508.9118"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Google" label="Google">
+        <attvalues>
+          <attvalue for="score" value="13.5"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.93643"></viz:size>
+        <viz:position x="375.0724" y="302.26984"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Instagram" label="Instagram">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="230.2514" y="670.6002"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="IPhone" label="IPhone">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="580.39056" y="618.3943"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="PRISM (surveillance program)" label="PRISM (surveillance program)">
+        <attvalues>
+          <attvalue for="score" value="1.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.2003615"></viz:size>
+        <viz:position x="-358.17685" y="660.1168"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Twitter" label="Twitter">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="105.50165" y="392.25238"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Verizon Wireless" label="Verizon Wireless">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="557.4761" y="737.49866"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Computer security" label="Computer security">
+        <attvalues>
+          <attvalue for="score" value="3.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="4.1259413"></viz:size>
+        <viz:position x="132.32817" y="-229.20862"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Bruce Schneier" label="Bruce Schneier">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-90.42317" y="-257.22714"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Content Security Policy" label="Content Security Policy">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="698.14496" y="-217.96317"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Honeypot (computing)" label="Honeypot (computing)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="116.63286" y="-282.47296"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Identity theft" label="Identity theft">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-35.32576" y="-171.48933"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Internet" label="Internet">
+        <attvalues>
+          <attvalue for="score" value="3.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="4.023931"></viz:size>
+        <viz:position x="-66.05453" y="231.2129"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Internet privacy" label="Internet privacy">
+        <attvalues>
+          <attvalue for="score" value="124.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.059028" y="3.8842323"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Internet service provider" label="Internet service provider">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-222.72696" y="496.65826"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="IP address" label="IP address">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="4.32872" y="-443.1192"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Malware" label="Malware">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="274.97824" y="-170.38551"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Personally identifiable information" label="Personally identifiable information">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-572.80646" y="-28.096638"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Phishing" label="Phishing">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="377.6582" y="-144.00723"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Privacy software" label="Privacy software">
+        <attvalues>
+          <attvalue for="score" value="3.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.174752"></viz:size>
+        <viz:position x="-575.34625" y="-397.36038"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Trojan horse (computing)" label="Trojan horse (computing)">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="212.41185" y="-201.20682"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Freenet" label="Freenet">
+        <attvalues>
+          <attvalue for="score" value="2.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.6721258"></viz:size>
+        <viz:position x="-563.78986" y="-821.2667"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Anonymity" label="Anonymity">
+        <attvalues>
+          <attvalue for="score" value="6.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.81998"></viz:size>
+        <viz:position x="-626.83374" y="-545.71716"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Anonymous P2P" label="Anonymous P2P">
+        <attvalues>
+          <attvalue for="score" value="7.16667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.953442"></viz:size>
+        <viz:position x="-594.9939" y="-683.7402"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Darknet" label="Darknet">
+        <attvalues>
+          <attvalue for="score" value="2.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.6721258"></viz:size>
+        <viz:position x="-532.2884" y="-774.43286"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Freedom of information" label="Freedom of information">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-236.17574" y="-555.33844"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Friend-to-friend" label="Friend-to-friend">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-672.3784" y="-799.31195"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="GNUnet" label="GNUnet">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-668.02594" y="-776.5973"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="I2P" label="I2P">
+        <attvalues>
+          <attvalue for="score" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.5333552"></viz:size>
+        <viz:position x="-445.42953" y="-774.0455"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Java Anon Proxy" label="Java Anon Proxy">
+        <attvalues>
+          <attvalue for="score" value="2.66667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.7985678"></viz:size>
+        <viz:position x="-501.34607" y="-629.90607"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Proxy server" label="Proxy server">
+        <attvalues>
+          <attvalue for="score" value="6.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.8877573"></viz:size>
+        <viz:position x="-38.213264" y="-529.98846"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Tor (anonymity network)" label="Tor (anonymity network)">
+        <attvalues>
+          <attvalue for="score" value="12.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.850151"></viz:size>
+        <viz:position x="-206.89247" y="-657.4786"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="World Wide Web" label="World Wide Web">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="166.76268" y="29.174183"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Google Chrome" label="Google Chrome">
+        <attvalues>
+          <attvalue for="score" value="3.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="4.023931"></viz:size>
+        <viz:position x="798.71136" y="-23.35437"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="HTML5" label="HTML5">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="871.493" y="-142.46759"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Internet censorship" label="Internet censorship">
+        <attvalues>
+          <attvalue for="score" value="6.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.8877573"></viz:size>
+        <viz:position x="-280.83984" y="-217.55669"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="OpenNet Initiative" label="OpenNet Initiative">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-318.62848" y="-171.90062"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Opera (web browser)" label="Opera (web browser)">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="822.2822" y="-189.34935"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Outline of the Internet" label="Outline of the Internet">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-178.6244" y="200.11974"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Promotion (marketing)" label="Promotion (marketing)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="154.53583" y="720.1703"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Reddit" label="Reddit">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="124.53575" y="255.82664"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Social media" label="Social media">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="92.81929" y="623.87537"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Spyware" label="Spyware">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="295.31097" y="-19.915298"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Virtual private network" label="Virtual private network">
+        <attvalues>
+          <attvalue for="score" value="3.16667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.9704952"></viz:size>
+        <viz:position x="96.46588" y="-500.9581"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Web search engine" label="Web search engine">
+        <attvalues>
+          <attvalue for="score" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.5333552"></viz:size>
+        <viz:position x="752.06866" y="412.0032"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Adobe Flash Player" label="Adobe Flash Player">
+        <attvalues>
+          <attvalue for="score" value="3.83333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="4.174752"></viz:size>
+        <viz:position x="727.7372" y="-52.920444"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Privacy" label="Privacy">
+        <attvalues>
+          <attvalue for="score" value="9.83333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.418586"></viz:size>
+        <viz:position x="-654.0108" y="215.7624"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Andrew Grove" label="Andrew Grove">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-673.54395" y="133.33464"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Bank secrecy" label="Bank secrecy">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-852.47394" y="92.56755"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Canadian privacy law" label="Canadian privacy law">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-776.2198" y="187.45917"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Civil liberties" label="Civil liberties">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-788.3585" y="437.054"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Computer and network surveillance" label="Computer and network surveillance">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-445.57907" y="356.87744"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Data Protection Directive" label="Data Protection Directive">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-739.96173" y="326.90982"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Mass surveillance" label="Mass surveillance">
+        <attvalues>
+          <attvalue for="score" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.5333552"></viz:size>
+        <viz:position x="-489.07578" y="438.82327"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Privacy Act of 1974" label="Privacy Act of 1974">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-797.18665" y="271.85275"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Privacy by design" label="Privacy by design">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-823.5922" y="-144.02518"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Privacy-enhancing technologies" label="Privacy-enhancing technologies">
+        <attvalues>
+          <attvalue for="score" value="1.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.2003615"></viz:size>
+        <viz:position x="-721.11847" y="-339.36453"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Privacy International" label="Privacy International">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="-578.7799" y="300.14355"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Privacy law" label="Privacy law">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-828.0927" y="243.80765"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Privacy laws of the United States" label="Privacy laws of the United States">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-751.0151" y="603.63495"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Surveillance" label="Surveillance">
+        <attvalues>
+          <attvalue for="score" value="1.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.2003615"></viz:size>
+        <viz:position x="-439.91833" y="578.4998"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Slashdot" label="Slashdot">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="195.2901" y="278.04294"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Digital rights" label="Digital rights">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-374.02502" y="159.96077"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="HTTP cookie" label="HTTP cookie">
+        <attvalues>
+          <attvalue for="score" value="8.83333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.2551813"></viz:size>
+        <viz:position x="608.25055" y="-146.58942"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Robbins v. Lower Merion School District" label="Robbins v. Lower Merion School District">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="304.4266" y="554.69806"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Terms of service" label="Terms of service">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="311.18942" y="443.1569"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Anonymizer" label="Anonymizer">
+        <attvalues>
+          <attvalue for="score" value="2.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.6721258"></viz:size>
+        <viz:position x="-302.86462" y="-378.5968"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Privacy-invasive software" label="Privacy-invasive software">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="190.82121" y="-59.115177"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Cross-site scripting" label="Cross-site scripting">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="504.41748" y="-172.34456"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Firefox" label="Firefox">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="915.22736" y="-78.842224"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Internet security" label="Internet security">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="389.3789" y="-310.9602"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Web 2.0" label="Web 2.0">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="196.38925" y="363.59766"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Civil libertarianism" label="Civil libertarianism">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-777.6587" y="412.44653"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Anonymous remailer" label="Anonymous remailer">
+        <attvalues>
+          <attvalue for="score" value="3.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.174752"></viz:size>
+        <viz:position x="-537.49603" y="-507.59674"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Anonymous web browsing" label="Anonymous web browsing">
+        <attvalues>
+          <attvalue for="score" value="5.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.602236"></viz:size>
+        <viz:position x="-410.23267" y="-479.5871"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Roe v. Wade" label="Roe v. Wade">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-851.3418" y="578.45245"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Communications Assistance for Law Enforcement Act" label="Communications Assistance for Law Enforcement Act">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-517.81134" y="720.1273"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Mass surveillance in the United Kingdom" label="Mass surveillance in the United Kingdom">
+        <attvalues>
+          <attvalue for="score" value="1.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.2003615"></viz:size>
+        <viz:position x="-586.91595" y="631.87085"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Mass surveillance in the United States" label="Mass surveillance in the United States">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-349.05246" y="783.95514"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Mailbox provider" label="Mailbox provider">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-223.71837" y="554.0946"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Anti-Counterfeiting Trade Agreement" label="Anti-Counterfeiting Trade Agreement">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-319.9885" y="108.06064"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Internet Explorer 9" label="Internet Explorer 9">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="868.9514" y="4.606927"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Mozilla Corporation" label="Mozilla Corporation">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="892.5523" y="129.25766"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Mozilla" label="Mozilla">
+        <attvalues>
+          <attvalue for="score" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.5333552"></viz:size>
+        <viz:position x="957.7276" y="29.477167"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="WebRTC" label="WebRTC">
+        <attvalues>
+          <attvalue for="score" value="3.16667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.9704952"></viz:size>
+        <viz:position x="583.7869" y="-383.41"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Data retention" label="Data retention">
+        <attvalues>
+          <attvalue for="score" value="1.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.2003615"></viz:size>
+        <viz:position x="-578.9356" y="-175.5205"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Tempora" label="Tempora">
+        <attvalues>
+          <attvalue for="score" value="1.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.2003615"></viz:size>
+        <viz:position x="-533.6888" y="688.0517"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Jeff Flake" label="Jeff Flake">
+        <attvalues>
+          <attvalue for="score" value="1.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="3.2927876"></viz:size>
+        <viz:position x="-382.49057" y="912.0303"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="2017 Broadband Consumer Privacy Proposal repeal" label="2017 Broadband Consumer Privacy Proposal repeal">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-367.36154" y="524.4725"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Lobbying in the United States" label="Lobbying in the United States">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-343.5383" y="884.0541"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="United States Senate Committee on the Judiciary" label="United States Senate Committee on the Judiciary">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-357.846" y="940.6667"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Information sensitivity" label="Information sensitivity">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-586.0889" y="64.00336"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Bitmessage" label="Bitmessage">
+        <attvalues>
+          <attvalue for="score" value="1.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.4581928"></viz:size>
+        <viz:position x="-487.84708" y="-846.6653"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Tor-ramdisk" label="Tor-ramdisk">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-291.51254" y="-604.5076"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Website visitor tracking" label="Website visitor tracking">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="787.54095" y="-427.91315"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="AT&amp;T Mobility" label="AT&amp;T Mobility">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="592.8887" y="711.6492"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Internet censorship circumvention" label="Internet censorship circumvention">
+        <attvalues>
+          <attvalue for="score" value="4.83333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="4.4426727"></viz:size>
+        <viz:position x="-311.11414" y="-749.2651"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Global Network Initiative" label="Global Network Initiative">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-284.7549" y="-78.16944"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Shuman Ghosemajumder" label="Shuman Ghosemajumder">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="350.7602" y="230.12135"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Chromebook" label="Chromebook">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="526.6034" y="255.71788"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Comparison of web search engines" label="Comparison of web search engines">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="696.06415" y="295.84793"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Criticism of Google" label="Criticism of Google">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="365.9498" y="417.48743"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Google Analytics" label="Google Analytics">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="505.87476" y="-87.869286"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Ad blocking" label="Ad blocking">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="631.81244" y="-330.11032"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Anonymous post" label="Anonymous post">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="-62.69285" y="-333.4839"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Canvas fingerprinting" label="Canvas fingerprinting">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="943.5897" y="-462.37662"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Cryptocat" label="Cryptocat">
+        <attvalues>
+          <attvalue for="score" value="1.16667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.0992255"></viz:size>
+        <viz:position x="42.255074" y="-893.5873"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Data protection (privacy) laws in Russia" label="Data protection (privacy) laws in Russia">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-1008.9533" y="158.85648"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Digital privacy" label="Digital privacy">
+        <attvalues>
+          <attvalue for="score" value="1.83333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.4581928"></viz:size>
+        <viz:position x="-294.9656" y="387.8683"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Disconnect Mobile" label="Disconnect Mobile">
+        <attvalues>
+          <attvalue for="score" value="1.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.378313"></viz:size>
+        <viz:position x="918.53613" y="-350.30347"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="DuckDuckGo" label="DuckDuckGo">
+        <attvalues>
+          <attvalue for="score" value="3.5"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="4.0757046"></viz:size>
+        <viz:position x="749.52313" y="348.63373"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="EPrivacy Regulation (European Union)" label="EPrivacy Regulation (European Union)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="560.31305" y="-116.03674"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Evercookie" label="Evercookie">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="880.19037" y="-496.09448"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Filter bubble" label="Filter bubble">
+        <attvalues>
+          <attvalue for="score" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.5333552"></viz:size>
+        <viz:position x="614.7254" y="437.2277"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Internet vigilantism" label="Internet vigilantism">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="135.34499" y="201.7542"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Ixquick" label="Ixquick">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="590.8248" y="358.5586"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Lane v. Facebook, Inc." label="Lane v. Facebook, Inc.">
+        <attvalues>
+          <attvalue for="score" value="0.83333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.8577483"></viz:size>
+        <viz:position x="53.68931" y="593.2786"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="MetaGer" label="MetaGer">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="752.6538" y="459.93573"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Mug shot publishing industry" label="Mug shot publishing industry">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="431.86746" y="330.41174"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Presidency of Barack Obama" label="Presidency of Barack Obama">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-314.35226" y="832.4703"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Privacy in Australian law" label="Privacy in Australian law">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-953.8094" y="215.82542"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Right to be forgotten" label="Right to be forgotten">
+        <attvalues>
+          <attvalue for="score" value="1.5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.2927876"></viz:size>
+        <viz:position x="-246.52814" y="329.1998"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Search Encrypt (Search Engine)" label="Search Encrypt (Search Engine)">
+        <attvalues>
+          <attvalue for="score" value="1.16667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="3.0992255"></viz:size>
+        <viz:position x="880.6506" y="383.60764"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Snapchat" label="Snapchat">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="201.52856" y="748.1052"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Spotify" label="Spotify">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="319.08823" y="642.053"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Web storage" label="Web storage">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="945.4158" y="-246.34435"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Wickr" label="Wickr">
+        <attvalues>
+          <attvalue for="score" value="0.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.5004988"></viz:size>
+        <viz:position x="2.0263867" y="55.14338"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Zombie cookie" label="Zombie cookie">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="817.88226" y="-518.7816"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="User profile" label="User profile">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-14.508592" y="367.46597"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="P3P" label="P3P">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-208.4349" y="-120.99712"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Web beacon" label="Web beacon">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="805.89526" y="-384.63315"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Helen Nissenbaum" label="Helen Nissenbaum">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="727.7939" y="103.95338"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Criticism of Facebook" label="Criticism of Facebook">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="220.52016" y="531.4911"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Internet censorship in Iran" label="Internet censorship in Iran">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="-105.49719" y="80.246254"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Internet censorship in the United Kingdom" label="Internet censorship in the United Kingdom">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-725.0062" y="552.4745"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Open Technology Fund" label="Open Technology Fund">
+        <attvalues>
+          <attvalue for="score" value="0.66667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.7035918"></viz:size>
+        <viz:position x="-80.78129" y="-809.1341"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Anonymizer (company)" label="Anonymizer (company)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-172.77403" y="-407.22147"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Ghostery" label="Ghostery">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="1003.7671" y="-324.79813"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Privacy Badger" label="Privacy Badger">
+        <attvalues>
+          <attvalue for="score" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.986582"></viz:size>
+        <viz:position x="1026.7805" y="-375.5768"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Cybersecurity Information Sharing Act" label="Cybersecurity Information Sharing Act">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-132.1693" y="691.6352"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Tails (operating system)" label="Tails (operating system)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-61.039017" y="-721.228"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="The Guardian Project (software)" label="The Guardian Project (software)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-76.177216" y="-865.8774"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Privacy concerns with social networking services" label="Privacy concerns with social networking services">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-52.314667" y="468.6746"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Flash proxy" label="Flash proxy">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-81.54697" y="-685.67554"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Signal (software)" label="Signal (software)">
+        <attvalues>
+          <attvalue for="score" value="0.33333"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="102.7247" y="-837.1567"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="7370" source="Apple Inc." target="Facebook"></edge>
+      <edge id="7371" source="Apple Inc." target="Google"></edge>
+      <edge id="7372" source="Apple Inc." target="Instagram"></edge>
+      <edge id="7373" source="Apple Inc." target="IPhone"></edge>
+      <edge id="7374" source="Apple Inc." target="PRISM (surveillance program)"></edge>
+      <edge id="7375" source="Apple Inc." target="Twitter"></edge>
+      <edge id="7376" source="Apple Inc." target="Verizon Wireless"></edge>
+      <edge id="7377" source="Computer security" target="Apple Inc."></edge>
+      <edge id="7378" source="Computer security" target="Bruce Schneier"></edge>
+      <edge id="7379" source="Computer security" target="Content Security Policy"></edge>
+      <edge id="7380" source="Computer security" target="Facebook"></edge>
+      <edge id="7381" source="Computer security" target="Google"></edge>
+      <edge id="7382" source="Computer security" target="Honeypot (computing)"></edge>
+      <edge id="7383" source="Computer security" target="Identity theft"></edge>
+      <edge id="7384" source="Computer security" target="Internet"></edge>
+      <edge id="7385" source="Computer security" target="Internet privacy"></edge>
+      <edge id="7386" source="Computer security" target="Internet service provider"></edge>
+      <edge id="7387" source="Computer security" target="IP address"></edge>
+      <edge id="7388" source="Computer security" target="Malware"></edge>
+      <edge id="7389" source="Computer security" target="Personally identifiable information"></edge>
+      <edge id="7390" source="Computer security" target="Phishing"></edge>
+      <edge id="7391" source="Computer security" target="Privacy software"></edge>
+      <edge id="7392" source="Computer security" target="Trojan horse (computing)"></edge>
+      <edge id="7393" source="Freenet" target="Anonymity"></edge>
+      <edge id="7394" source="Freenet" target="Anonymous P2P"></edge>
+      <edge id="7395" source="Freenet" target="Darknet"></edge>
+      <edge id="7396" source="Freenet" target="Freedom of information"></edge>
+      <edge id="7397" source="Freenet" target="Friend-to-friend"></edge>
+      <edge id="7398" source="Freenet" target="GNUnet"></edge>
+      <edge id="7399" source="Freenet" target="I2P"></edge>
+      <edge id="7400" source="Freenet" target="Java Anon Proxy"></edge>
+      <edge id="7401" source="Freenet" target="Proxy server"></edge>
+      <edge id="7402" source="Freenet" target="Tor (anonymity network)"></edge>
+      <edge id="7403" source="Freenet" target="World Wide Web"></edge>
+      <edge id="7404" source="Internet" target="Apple Inc."></edge>
+      <edge id="7405" source="Internet" target="Computer security"></edge>
+      <edge id="7406" source="Internet" target="Darknet"></edge>
+      <edge id="7407" source="Internet" target="Facebook"></edge>
+      <edge id="7408" source="Internet" target="Freenet"></edge>
+      <edge id="7409" source="Internet" target="Google Chrome"></edge>
+      <edge id="7410" source="Internet" target="Google"></edge>
+      <edge id="7411" source="Internet" target="HTML5"></edge>
+      <edge id="7412" source="Internet" target="Internet censorship"></edge>
+      <edge id="7413" source="Internet" target="Internet service provider"></edge>
+      <edge id="7414" source="Internet" target="IP address"></edge>
+      <edge id="7415" source="Internet" target="OpenNet Initiative"></edge>
+      <edge id="7416" source="Internet" target="Opera (web browser)"></edge>
+      <edge id="7417" source="Internet" target="Outline of the Internet"></edge>
+      <edge id="7418" source="Internet" target="Promotion (marketing)"></edge>
+      <edge id="7419" source="Internet" target="Reddit"></edge>
+      <edge id="7420" source="Internet" target="Social media"></edge>
+      <edge id="7421" source="Internet" target="Spyware"></edge>
+      <edge id="7422" source="Internet" target="Twitter"></edge>
+      <edge id="7423" source="Internet" target="Virtual private network"></edge>
+      <edge id="7424" source="Internet" target="Web search engine"></edge>
+      <edge id="7425" source="Internet" target="World Wide Web"></edge>
+      <edge id="7426" source="IP address" target="Proxy server"></edge>
+      <edge id="7427" source="Malware" target="Adobe Flash Player"></edge>
+      <edge id="7428" source="Malware" target="Computer security"></edge>
+      <edge id="7429" source="Malware" target="Identity theft"></edge>
+      <edge id="7430" source="Malware" target="Internet"></edge>
+      <edge id="7431" source="Malware" target="Phishing"></edge>
+      <edge id="7432" source="Malware" target="Spyware"></edge>
+      <edge id="7433" source="Malware" target="Trojan horse (computing)"></edge>
+      <edge id="7434" source="Privacy" target="Andrew Grove"></edge>
+      <edge id="7435" source="Privacy" target="Bank secrecy"></edge>
+      <edge id="7436" source="Privacy" target="Bruce Schneier"></edge>
+      <edge id="7437" source="Privacy" target="Canadian privacy law"></edge>
+      <edge id="7438" source="Privacy" target="Civil liberties"></edge>
+      <edge id="7439" source="Privacy" target="Computer and network surveillance"></edge>
+      <edge id="7440" source="Privacy" target="Data Protection Directive"></edge>
+      <edge id="7441" source="Privacy" target="Facebook"></edge>
+      <edge id="7442" source="Privacy" target="I2P"></edge>
+      <edge id="7443" source="Privacy" target="Identity theft"></edge>
+      <edge id="7444" source="Privacy" target="Internet"></edge>
+      <edge id="7445" source="Privacy" target="Internet privacy"></edge>
+      <edge id="7446" source="Privacy" target="Mass surveillance"></edge>
+      <edge id="7447" source="Privacy" target="Personally identifiable information"></edge>
+      <edge id="7448" source="Privacy" target="Privacy Act of 1974"></edge>
+      <edge id="7449" source="Privacy" target="Privacy by design"></edge>
+      <edge id="7450" source="Privacy" target="Privacy-enhancing technologies"></edge>
+      <edge id="7451" source="Privacy" target="Privacy International"></edge>
+      <edge id="7452" source="Privacy" target="Privacy law"></edge>
+      <edge id="7453" source="Privacy" target="Privacy laws of the United States"></edge>
+      <edge id="7454" source="Privacy" target="Privacy software"></edge>
+      <edge id="7455" source="Privacy" target="Surveillance"></edge>
+      <edge id="7456" source="Privacy" target="Tor (anonymity network)"></edge>
+      <edge id="7457" source="Privacy" target="Twitter"></edge>
+      <edge id="7458" source="Slashdot" target="Apple Inc."></edge>
+      <edge id="7459" source="Slashdot" target="Digital rights"></edge>
+      <edge id="7460" source="Slashdot" target="Internet privacy"></edge>
+      <edge id="7461" source="Slashdot" target="IPhone"></edge>
+      <edge id="7462" source="Slashdot" target="Reddit"></edge>
+      <edge id="7463" source="Spyware" target="Computer security"></edge>
+      <edge id="7464" source="Spyware" target="Facebook"></edge>
+      <edge id="7465" source="Spyware" target="Google Chrome"></edge>
+      <edge id="7466" source="Spyware" target="HTTP cookie"></edge>
+      <edge id="7467" source="Spyware" target="Identity theft"></edge>
+      <edge id="7468" source="Spyware" target="Internet service provider"></edge>
+      <edge id="7469" source="Spyware" target="Malware"></edge>
+      <edge id="7470" source="Spyware" target="Phishing"></edge>
+      <edge id="7471" source="Spyware" target="Robbins v. Lower Merion School District"></edge>
+      <edge id="7472" source="Spyware" target="Terms of service"></edge>
+      <edge id="7473" source="Spyware" target="Trojan horse (computing)"></edge>
+      <edge id="7474" source="Spyware" target="Web search engine"></edge>
+      <edge id="7475" source="Trojan horse (computing)" target="Anonymizer"></edge>
+      <edge id="7476" source="Trojan horse (computing)" target="Computer security"></edge>
+      <edge id="7477" source="Trojan horse (computing)" target="Malware"></edge>
+      <edge id="7478" source="Trojan horse (computing)" target="Privacy-invasive software"></edge>
+      <edge id="7479" source="Trojan horse (computing)" target="Spyware"></edge>
+      <edge id="7480" source="World Wide Web" target="Cross-site scripting"></edge>
+      <edge id="7481" source="World Wide Web" target="Facebook"></edge>
+      <edge id="7482" source="World Wide Web" target="Firefox"></edge>
+      <edge id="7483" source="World Wide Web" target="Google"></edge>
+      <edge id="7484" source="World Wide Web" target="HTTP cookie"></edge>
+      <edge id="7485" source="World Wide Web" target="Identity theft"></edge>
+      <edge id="7486" source="World Wide Web" target="Internet"></edge>
+      <edge id="7487" source="World Wide Web" target="Internet security"></edge>
+      <edge id="7488" source="World Wide Web" target="IP address"></edge>
+      <edge id="7489" source="World Wide Web" target="Malware"></edge>
+      <edge id="7490" source="World Wide Web" target="Personally identifiable information"></edge>
+      <edge id="7491" source="World Wide Web" target="Phishing"></edge>
+      <edge id="7492" source="World Wide Web" target="Twitter"></edge>
+      <edge id="7493" source="World Wide Web" target="Web 2.0"></edge>
+      <edge id="7494" source="Bruce Schneier" target="Computer security"></edge>
+      <edge id="7495" source="Bruce Schneier" target="Facebook"></edge>
+      <edge id="7496" source="Civil liberties" target="Civil libertarianism"></edge>
+      <edge id="7497" source="Civil liberties" target="Privacy"></edge>
+      <edge id="7498" source="Anonymous remailer" target="Anonymity"></edge>
+      <edge id="7499" source="Anonymous remailer" target="Anonymous P2P"></edge>
+      <edge id="7500" source="Anonymous remailer" target="Anonymous web browsing"></edge>
+      <edge id="7501" source="Anonymous remailer" target="Bruce Schneier"></edge>
+      <edge id="7502" source="Anonymous remailer" target="I2P"></edge>
+      <edge id="7503" source="Anonymous remailer" target="Identity theft"></edge>
+      <edge id="7504" source="Anonymous remailer" target="Internet"></edge>
+      <edge id="7505" source="Anonymous remailer" target="Internet privacy"></edge>
+      <edge id="7506" source="Anonymous remailer" target="Java Anon Proxy"></edge>
+      <edge id="7507" source="Anonymous remailer" target="Personally identifiable information"></edge>
+      <edge id="7508" source="Anonymous remailer" target="Privacy-enhancing technologies"></edge>
+      <edge id="7509" source="Anonymous remailer" target="Privacy software"></edge>
+      <edge id="7510" source="Anonymous remailer" target="Tor (anonymity network)"></edge>
+      <edge id="7511" source="Anonymous remailer" target="Trojan horse (computing)"></edge>
+      <edge id="7512" source="Roe v. Wade" target="Privacy"></edge>
+      <edge id="7513" source="Proxy server" target="Anonymizer"></edge>
+      <edge id="7514" source="Proxy server" target="Computer security"></edge>
+      <edge id="7515" source="Proxy server" target="Cross-site scripting"></edge>
+      <edge id="7516" source="Proxy server" target="Darknet"></edge>
+      <edge id="7517" source="Proxy server" target="HTTP cookie"></edge>
+      <edge id="7518" source="Proxy server" target="I2P"></edge>
+      <edge id="7519" source="Proxy server" target="Internet privacy"></edge>
+      <edge id="7520" source="Proxy server" target="IP address"></edge>
+      <edge id="7521" source="Proxy server" target="Malware"></edge>
+      <edge id="7522" source="Proxy server" target="Tor (anonymity network)"></edge>
+      <edge id="7523" source="Proxy server" target="World Wide Web"></edge>
+      <edge id="7524" source="Surveillance" target="Apple Inc."></edge>
+      <edge id="7525" source="Surveillance" target="Civil liberties"></edge>
+      <edge id="7526" source="Surveillance" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="7527" source="Surveillance" target="Facebook"></edge>
+      <edge id="7528" source="Surveillance" target="Google"></edge>
+      <edge id="7529" source="Surveillance" target="HTTP cookie"></edge>
+      <edge id="7530" source="Surveillance" target="Internet"></edge>
+      <edge id="7531" source="Surveillance" target="IP address"></edge>
+      <edge id="7532" source="Surveillance" target="Mass surveillance in the United Kingdom"></edge>
+      <edge id="7533" source="Surveillance" target="Mass surveillance in the United States"></edge>
+      <edge id="7534" source="Surveillance" target="Mass surveillance"></edge>
+      <edge id="7535" source="Surveillance" target="PRISM (surveillance program)"></edge>
+      <edge id="7536" source="Surveillance" target="Privacy law"></edge>
+      <edge id="7537" source="Surveillance" target="Privacy"></edge>
+      <edge id="7538" source="Surveillance" target="Twitter"></edge>
+      <edge id="7539" source="Computer and network surveillance" target="Anonymizer"></edge>
+      <edge id="7540" source="Computer and network surveillance" target="Google"></edge>
+      <edge id="7541" source="Computer and network surveillance" target="HTTP cookie"></edge>
+      <edge id="7542" source="Computer and network surveillance" target="Internet"></edge>
+      <edge id="7543" source="Computer and network surveillance" target="IP address"></edge>
+      <edge id="7544" source="Computer and network surveillance" target="Mass surveillance in the United Kingdom"></edge>
+      <edge id="7545" source="Computer and network surveillance" target="Mass surveillance in the United States"></edge>
+      <edge id="7546" source="Computer and network surveillance" target="Mass surveillance"></edge>
+      <edge id="7547" source="Computer and network surveillance" target="Privacy"></edge>
+      <edge id="7548" source="Computer and network surveillance" target="Spyware"></edge>
+      <edge id="7549" source="Computer and network surveillance" target="Surveillance"></edge>
+      <edge id="7550" source="Internet service provider" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="7551" source="Internet service provider" target="Internet"></edge>
+      <edge id="7552" source="Internet service provider" target="Mailbox provider"></edge>
+      <edge id="7553" source="Internet service provider" target="Outline of the Internet"></edge>
+      <edge id="7554" source="Internet service provider" target="PRISM (surveillance program)"></edge>
+      <edge id="7555" source="Internet service provider" target="Surveillance"></edge>
+      <edge id="7556" source="Internet service provider" target="World Wide Web"></edge>
+      <edge id="7557" source="Virtual private network" target="Anonymizer"></edge>
+      <edge id="7558" source="Virtual private network" target="Internet privacy"></edge>
+      <edge id="7559" source="Virtual private network" target="IP address"></edge>
+      <edge id="7560" source="Virtual private network" target="Proxy server"></edge>
+      <edge id="7561" source="Andrew Grove" target="Internet privacy"></edge>
+      <edge id="7562" source="Identity theft" target="Bruce Schneier"></edge>
+      <edge id="7563" source="Identity theft" target="Facebook"></edge>
+      <edge id="7564" source="Identity theft" target="Internet security"></edge>
+      <edge id="7565" source="Identity theft" target="Malware"></edge>
+      <edge id="7566" source="Identity theft" target="Personally identifiable information"></edge>
+      <edge id="7567" source="Identity theft" target="Phishing"></edge>
+      <edge id="7568" source="Identity theft" target="Privacy"></edge>
+      <edge id="7569" source="Identity theft" target="Spyware"></edge>
+      <edge id="7570" source="Identity theft" target="Trojan horse (computing)"></edge>
+      <edge id="7571" source="Identity theft" target="Twitter"></edge>
+      <edge id="7572" source="Anonymity" target="Anonymous P2P"></edge>
+      <edge id="7573" source="Anonymity" target="Anonymous remailer"></edge>
+      <edge id="7574" source="Anonymity" target="Anonymous web browsing"></edge>
+      <edge id="7575" source="Anonymity" target="Anti-Counterfeiting Trade Agreement"></edge>
+      <edge id="7576" source="Anonymity" target="Bank secrecy"></edge>
+      <edge id="7577" source="Anonymity" target="Facebook"></edge>
+      <edge id="7578" source="Anonymity" target="Friend-to-friend"></edge>
+      <edge id="7579" source="Anonymity" target="I2P"></edge>
+      <edge id="7580" source="Anonymity" target="Identity theft"></edge>
+      <edge id="7581" source="Anonymity" target="Internet censorship"></edge>
+      <edge id="7582" source="Anonymity" target="Internet privacy"></edge>
+      <edge id="7583" source="Anonymity" target="IP address"></edge>
+      <edge id="7584" source="Anonymity" target="Java Anon Proxy"></edge>
+      <edge id="7585" source="Anonymity" target="Personally identifiable information"></edge>
+      <edge id="7586" source="Anonymity" target="Privacy-enhancing technologies"></edge>
+      <edge id="7587" source="Anonymity" target="Privacy software"></edge>
+      <edge id="7588" source="Anonymity" target="Tor (anonymity network)"></edge>
+      <edge id="7589" source="Firefox" target="Apple Inc."></edge>
+      <edge id="7590" source="Firefox" target="Google Chrome"></edge>
+      <edge id="7591" source="Firefox" target="Google"></edge>
+      <edge id="7592" source="Firefox" target="HTML5"></edge>
+      <edge id="7593" source="Firefox" target="Internet Explorer 9"></edge>
+      <edge id="7594" source="Firefox" target="IP address"></edge>
+      <edge id="7595" source="Firefox" target="Mozilla Corporation"></edge>
+      <edge id="7596" source="Firefox" target="Mozilla"></edge>
+      <edge id="7597" source="Firefox" target="Opera (web browser)"></edge>
+      <edge id="7598" source="Firefox" target="Personally identifiable information"></edge>
+      <edge id="7599" source="Firefox" target="WebRTC"></edge>
+      <edge id="7600" source="Firefox" target="World Wide Web"></edge>
+      <edge id="7601" source="Cross-site scripting" target="Computer security"></edge>
+      <edge id="7602" source="Cross-site scripting" target="Content Security Policy"></edge>
+      <edge id="7603" source="Cross-site scripting" target="Facebook"></edge>
+      <edge id="7604" source="Cross-site scripting" target="Firefox"></edge>
+      <edge id="7605" source="Cross-site scripting" target="Google Chrome"></edge>
+      <edge id="7606" source="Cross-site scripting" target="HTTP cookie"></edge>
+      <edge id="7607" source="Cross-site scripting" target="Internet security"></edge>
+      <edge id="7608" source="Cross-site scripting" target="Phishing"></edge>
+      <edge id="7609" source="Cross-site scripting" target="Twitter"></edge>
+      <edge id="7610" source="Cross-site scripting" target="Web 2.0"></edge>
+      <edge id="7611" source="Data Protection Directive" target="Personally identifiable information"></edge>
+      <edge id="7612" source="Data Protection Directive" target="Privacy Act of 1974"></edge>
+      <edge id="7613" source="Data Protection Directive" target="Privacy law"></edge>
+      <edge id="7614" source="Data Protection Directive" target="Privacy"></edge>
+      <edge id="7615" source="Data Protection Directive" target="Roe v. Wade"></edge>
+      <edge id="7616" source="Honeypot (computing)" target="Computer security"></edge>
+      <edge id="7617" source="Honeypot (computing)" target="IP address"></edge>
+      <edge id="7618" source="GNUnet" target="Anonymity"></edge>
+      <edge id="7619" source="GNUnet" target="Anonymous P2P"></edge>
+      <edge id="7620" source="GNUnet" target="Freenet"></edge>
+      <edge id="7621" source="GNUnet" target="Friend-to-friend"></edge>
+      <edge id="7622" source="GNUnet" target="Internet censorship"></edge>
+      <edge id="7623" source="GNUnet" target="PRISM (surveillance program)"></edge>
+      <edge id="7624" source="Mass surveillance" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="7625" source="Mass surveillance" target="Computer and network surveillance"></edge>
+      <edge id="7626" source="Mass surveillance" target="Data Protection Directive"></edge>
+      <edge id="7627" source="Mass surveillance" target="Data retention"></edge>
+      <edge id="7628" source="Mass surveillance" target="Facebook"></edge>
+      <edge id="7629" source="Mass surveillance" target="Google"></edge>
+      <edge id="7630" source="Mass surveillance" target="HTML5"></edge>
+      <edge id="7631" source="Mass surveillance" target="Malware"></edge>
+      <edge id="7632" source="Mass surveillance" target="OpenNet Initiative"></edge>
+      <edge id="7633" source="Mass surveillance" target="Phishing"></edge>
+      <edge id="7634" source="Mass surveillance" target="PRISM (surveillance program)"></edge>
+      <edge id="7635" source="Mass surveillance" target="Privacy International"></edge>
+      <edge id="7636" source="Mass surveillance" target="Privacy"></edge>
+      <edge id="7637" source="Mass surveillance" target="Surveillance"></edge>
+      <edge id="7638" source="Mass surveillance" target="Tempora"></edge>
+      <edge id="7639" source="Mass surveillance" target="Twitter"></edge>
+      <edge id="7640" source="Mass surveillance" target="World Wide Web"></edge>
+      <edge id="7641" source="Jeff Flake" target="2017 Broadband Consumer Privacy Proposal repeal"></edge>
+      <edge id="7642" source="Jeff Flake" target="Internet privacy"></edge>
+      <edge id="7643" source="Jeff Flake" target="Internet service provider"></edge>
+      <edge id="7644" source="Jeff Flake" target="Lobbying in the United States"></edge>
+      <edge id="7645" source="Jeff Flake" target="United States Senate Committee on the Judiciary"></edge>
+      <edge id="7646" source="Phishing" target="Cross-site scripting"></edge>
+      <edge id="7647" source="Phishing" target="Facebook"></edge>
+      <edge id="7648" source="Phishing" target="Google Chrome"></edge>
+      <edge id="7649" source="Phishing" target="Google"></edge>
+      <edge id="7650" source="Phishing" target="Identity theft"></edge>
+      <edge id="7651" source="Phishing" target="Information sensitivity"></edge>
+      <edge id="7652" source="Phishing" target="Malware"></edge>
+      <edge id="7653" source="Phishing" target="Opera (web browser)"></edge>
+      <edge id="7654" source="Anonymous P2P" target="Anonymity"></edge>
+      <edge id="7655" source="Anonymous P2P" target="Anonymous remailer"></edge>
+      <edge id="7656" source="Anonymous P2P" target="Anonymous web browsing"></edge>
+      <edge id="7657" source="Anonymous P2P" target="Bitmessage"></edge>
+      <edge id="7658" source="Anonymous P2P" target="Darknet"></edge>
+      <edge id="7659" source="Anonymous P2P" target="Data retention"></edge>
+      <edge id="7660" source="Anonymous P2P" target="Freenet"></edge>
+      <edge id="7661" source="Anonymous P2P" target="Friend-to-friend"></edge>
+      <edge id="7662" source="Anonymous P2P" target="GNUnet"></edge>
+      <edge id="7663" source="Anonymous P2P" target="I2P"></edge>
+      <edge id="7664" source="Anonymous P2P" target="Internet"></edge>
+      <edge id="7665" source="Anonymous P2P" target="Internet privacy"></edge>
+      <edge id="7666" source="Anonymous P2P" target="IP address"></edge>
+      <edge id="7667" source="Anonymous P2P" target="Java Anon Proxy"></edge>
+      <edge id="7668" source="Anonymous P2P" target="Mass surveillance"></edge>
+      <edge id="7669" source="Anonymous P2P" target="Personally identifiable information"></edge>
+      <edge id="7670" source="Anonymous P2P" target="Privacy-enhancing technologies"></edge>
+      <edge id="7671" source="Anonymous P2P" target="Privacy software"></edge>
+      <edge id="7672" source="Anonymous P2P" target="Tor (anonymity network)"></edge>
+      <edge id="7673" source="Anonymous P2P" target="Tor-ramdisk"></edge>
+      <edge id="7674" source="Anonymous P2P" target="Website visitor tracking"></edge>
+      <edge id="7675" source="AT&amp;T Mobility" target="Apple Inc."></edge>
+      <edge id="7676" source="AT&amp;T Mobility" target="Google"></edge>
+      <edge id="7677" source="AT&amp;T Mobility" target="IPhone"></edge>
+      <edge id="7678" source="AT&amp;T Mobility" target="Verizon Wireless"></edge>
+      <edge id="7679" source="Verizon Wireless" target="Apple Inc."></edge>
+      <edge id="7680" source="Verizon Wireless" target="AT&amp;T Mobility"></edge>
+      <edge id="7681" source="Verizon Wireless" target="Google"></edge>
+      <edge id="7682" source="Communications Assistance for Law Enforcement Act" target="Mass surveillance"></edge>
+      <edge id="7683" source="Communications Assistance for Law Enforcement Act" target="Surveillance"></edge>
+      <edge id="7684" source="Communications Assistance for Law Enforcement Act" target="Tempora"></edge>
+      <edge id="7685" source="I2P" target="Anonymous P2P"></edge>
+      <edge id="7686" source="I2P" target="Bitmessage"></edge>
+      <edge id="7687" source="I2P" target="Cross-site scripting"></edge>
+      <edge id="7688" source="I2P" target="Darknet"></edge>
+      <edge id="7689" source="I2P" target="Freenet"></edge>
+      <edge id="7690" source="I2P" target="Internet censorship circumvention"></edge>
+      <edge id="7691" source="I2P" target="IP address"></edge>
+      <edge id="7692" source="I2P" target="Proxy server"></edge>
+      <edge id="7693" source="I2P" target="Tor (anonymity network)"></edge>
+      <edge id="7694" source="Civil libertarianism" target="Civil liberties"></edge>
+      <edge id="7695" source="Civil libertarianism" target="Digital rights"></edge>
+      <edge id="7696" source="Civil libertarianism" target="Internet"></edge>
+      <edge id="7697" source="Civil libertarianism" target="Internet privacy"></edge>
+      <edge id="7698" source="Civil libertarianism" target="Privacy"></edge>
+      <edge id="7699" source="Privacy Act of 1974" target="Civil liberties"></edge>
+      <edge id="7700" source="Privacy Act of 1974" target="Personally identifiable information"></edge>
+      <edge id="7701" source="Privacy Act of 1974" target="Privacy"></edge>
+      <edge id="7702" source="United States Senate Committee on the Judiciary" target="Internet privacy"></edge>
+      <edge id="7703" source="United States Senate Committee on the Judiciary" target="Jeff Flake"></edge>
+      <edge id="7704" source="Internet security" target="Computer security"></edge>
+      <edge id="7705" source="Internet security" target="Firefox"></edge>
+      <edge id="7706" source="Internet security" target="Google Chrome"></edge>
+      <edge id="7707" source="Internet security" target="Internet"></edge>
+      <edge id="7708" source="Internet security" target="Malware"></edge>
+      <edge id="7709" source="Internet security" target="Phishing"></edge>
+      <edge id="7710" source="Internet security" target="Proxy server"></edge>
+      <edge id="7711" source="Internet security" target="Spyware"></edge>
+      <edge id="7712" source="Internet security" target="Trojan horse (computing)"></edge>
+      <edge id="7713" source="Internet security" target="Virtual private network"></edge>
+      <edge id="7714" source="Terms of service" target="HTTP cookie"></edge>
+      <edge id="7715" source="Terms of service" target="Internet privacy"></edge>
+      <edge id="7716" source="Terms of service" target="Social media"></edge>
+      <edge id="7717" source="Freedom of information" target="Digital rights"></edge>
+      <edge id="7718" source="Freedom of information" target="Freenet"></edge>
+      <edge id="7719" source="Freedom of information" target="Global Network Initiative"></edge>
+      <edge id="7720" source="Freedom of information" target="Google"></edge>
+      <edge id="7721" source="Freedom of information" target="I2P"></edge>
+      <edge id="7722" source="Freedom of information" target="Internet censorship"></edge>
+      <edge id="7723" source="Freedom of information" target="Internet"></edge>
+      <edge id="7724" source="Freedom of information" target="Internet privacy"></edge>
+      <edge id="7725" source="Freedom of information" target="Internet service provider"></edge>
+      <edge id="7726" source="Freedom of information" target="IP address"></edge>
+      <edge id="7727" source="Freedom of information" target="Privacy"></edge>
+      <edge id="7728" source="Freedom of information" target="Proxy server"></edge>
+      <edge id="7729" source="Freedom of information" target="Tor (anonymity network)"></edge>
+      <edge id="7730" source="Freedom of information" target="Tor-ramdisk"></edge>
+      <edge id="7731" source="Freedom of information" target="Virtual private network"></edge>
+      <edge id="7732" source="Shuman Ghosemajumder" target="Google"></edge>
+      <edge id="7733" source="Privacy International" target="Data retention"></edge>
+      <edge id="7734" source="Privacy International" target="Freedom of information"></edge>
+      <edge id="7735" source="Privacy International" target="Internet censorship"></edge>
+      <edge id="7736" source="Privacy International" target="Internet privacy"></edge>
+      <edge id="7737" source="Privacy International" target="Privacy"></edge>
+      <edge id="7738" source="Privacy International" target="Surveillance"></edge>
+      <edge id="7739" source="Darknet" target="Anonymous P2P"></edge>
+      <edge id="7740" source="Darknet" target="Freenet"></edge>
+      <edge id="7741" source="Darknet" target="Friend-to-friend"></edge>
+      <edge id="7742" source="Darknet" target="GNUnet"></edge>
+      <edge id="7743" source="Darknet" target="I2P"></edge>
+      <edge id="7744" source="Darknet" target="Internet censorship circumvention"></edge>
+      <edge id="7745" source="Darknet" target="Internet censorship"></edge>
+      <edge id="7746" source="Darknet" target="Internet"></edge>
+      <edge id="7747" source="Darknet" target="Internet privacy"></edge>
+      <edge id="7748" source="Darknet" target="Mass surveillance"></edge>
+      <edge id="7749" source="Darknet" target="Proxy server"></edge>
+      <edge id="7750" source="Darknet" target="Social media"></edge>
+      <edge id="7751" source="Darknet" target="Tor (anonymity network)"></edge>
+      <edge id="7752" source="Darknet" target="Virtual private network"></edge>
+      <edge id="7753" source="Google" target="Apple Inc."></edge>
+      <edge id="7754" source="Google" target="Chromebook"></edge>
+      <edge id="7755" source="Google" target="Comparison of web search engines"></edge>
+      <edge id="7756" source="Google" target="Criticism of Google"></edge>
+      <edge id="7757" source="Google" target="Facebook"></edge>
+      <edge id="7758" source="Google" target="Google Analytics"></edge>
+      <edge id="7759" source="Google" target="Google Chrome"></edge>
+      <edge id="7760" source="Google" target="Internet"></edge>
+      <edge id="7761" source="Google" target="Internet privacy"></edge>
+      <edge id="7762" source="Google" target="Lobbying in the United States"></edge>
+      <edge id="7763" source="Google" target="Mass surveillance"></edge>
+      <edge id="7764" source="Google" target="PRISM (surveillance program)"></edge>
+      <edge id="7765" source="Ad blocking" target="Google"></edge>
+      <edge id="7766" source="Ad blocking" target="HTML5"></edge>
+      <edge id="7767" source="Ad blocking" target="Internet privacy"></edge>
+      <edge id="7768" source="Ad blocking" target="IP address"></edge>
+      <edge id="7769" source="Ad blocking" target="Privacy"></edge>
+      <edge id="7770" source="Ad blocking" target="Proxy server"></edge>
+      <edge id="7771" source="Friend-to-friend" target="Anonymity"></edge>
+      <edge id="7772" source="Friend-to-friend" target="Darknet"></edge>
+      <edge id="7773" source="Friend-to-friend" target="Freenet"></edge>
+      <edge id="7774" source="Friend-to-friend" target="GNUnet"></edge>
+      <edge id="7775" source="Friend-to-friend" target="IP address"></edge>
+      <edge id="7776" source="Internet privacy" target="Adobe Flash Player"></edge>
+      <edge id="7777" source="Internet privacy" target="Anonymity"></edge>
+      <edge id="7778" source="Internet privacy" target="Anonymizer"></edge>
+      <edge id="7779" source="Internet privacy" target="Anonymous P2P"></edge>
+      <edge id="7780" source="Internet privacy" target="Anonymous post"></edge>
+      <edge id="7781" source="Internet privacy" target="Anonymous remailer"></edge>
+      <edge id="7782" source="Internet privacy" target="Anonymous web browsing"></edge>
+      <edge id="7783" source="Internet privacy" target="Apple Inc."></edge>
+      <edge id="7784" source="Internet privacy" target="AT&amp;T Mobility"></edge>
+      <edge id="7785" source="Internet privacy" target="Bank secrecy"></edge>
+      <edge id="7786" source="Internet privacy" target="Bitmessage"></edge>
+      <edge id="7787" source="Internet privacy" target="Bruce Schneier"></edge>
+      <edge id="7788" source="Internet privacy" target="Canadian privacy law"></edge>
+      <edge id="7789" source="Internet privacy" target="Canvas fingerprinting"></edge>
+      <edge id="7790" source="Internet privacy" target="Civil liberties"></edge>
+      <edge id="7791" source="Internet privacy" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="7792" source="Internet privacy" target="Computer and network surveillance"></edge>
+      <edge id="7793" source="Internet privacy" target="Content Security Policy"></edge>
+      <edge id="7794" source="Internet privacy" target="Cross-site scripting"></edge>
+      <edge id="7795" source="Internet privacy" target="Cryptocat"></edge>
+      <edge id="7796" source="Internet privacy" target="Data Protection Directive"></edge>
+      <edge id="7797" source="Internet privacy" target="Data protection (privacy) laws in Russia"></edge>
+      <edge id="7798" source="Internet privacy" target="Data retention"></edge>
+      <edge id="7799" source="Internet privacy" target="Digital privacy"></edge>
+      <edge id="7800" source="Internet privacy" target="Disconnect Mobile"></edge>
+      <edge id="7801" source="Internet privacy" target="DuckDuckGo"></edge>
+      <edge id="7802" source="Internet privacy" target="EPrivacy Regulation (European Union)"></edge>
+      <edge id="7803" source="Internet privacy" target="Evercookie"></edge>
+      <edge id="7804" source="Internet privacy" target="Facebook"></edge>
+      <edge id="7805" source="Internet privacy" target="Filter bubble"></edge>
+      <edge id="7806" source="Internet privacy" target="Firefox"></edge>
+      <edge id="7807" source="Internet privacy" target="Freenet"></edge>
+      <edge id="7808" source="Internet privacy" target="Friend-to-friend"></edge>
+      <edge id="7809" source="Internet privacy" target="GNUnet"></edge>
+      <edge id="7810" source="Internet privacy" target="Google Analytics"></edge>
+      <edge id="7811" source="Internet privacy" target="Google Chrome"></edge>
+      <edge id="7812" source="Internet privacy" target="Google"></edge>
+      <edge id="7813" source="Internet privacy" target="Honeypot (computing)"></edge>
+      <edge id="7814" source="Internet privacy" target="HTML5"></edge>
+      <edge id="7815" source="Internet privacy" target="HTTP cookie"></edge>
+      <edge id="7816" source="Internet privacy" target="I2P"></edge>
+      <edge id="7817" source="Internet privacy" target="Identity theft"></edge>
+      <edge id="7818" source="Internet privacy" target="Instagram"></edge>
+      <edge id="7819" source="Internet privacy" target="Internet censorship circumvention"></edge>
+      <edge id="7820" source="Internet privacy" target="Internet censorship"></edge>
+      <edge id="7821" source="Internet privacy" target="Internet"></edge>
+      <edge id="7822" source="Internet privacy" target="Internet security"></edge>
+      <edge id="7823" source="Internet privacy" target="Internet service provider"></edge>
+      <edge id="7824" source="Internet privacy" target="Internet vigilantism"></edge>
+      <edge id="7825" source="Internet privacy" target="IP address"></edge>
+      <edge id="7826" source="Internet privacy" target="IPhone"></edge>
+      <edge id="7827" source="Internet privacy" target="Ixquick"></edge>
+      <edge id="7828" source="Internet privacy" target="Jeff Flake"></edge>
+      <edge id="7829" source="Internet privacy" target="Lane v. Facebook, Inc."></edge>
+      <edge id="7830" source="Internet privacy" target="Lobbying in the United States"></edge>
+      <edge id="7831" source="Internet privacy" target="Malware"></edge>
+      <edge id="7832" source="Internet privacy" target="Mass surveillance in the United Kingdom"></edge>
+      <edge id="7833" source="Internet privacy" target="Mass surveillance in the United States"></edge>
+      <edge id="7834" source="Internet privacy" target="Mass surveillance"></edge>
+      <edge id="7835" source="Internet privacy" target="MetaGer"></edge>
+      <edge id="7836" source="Internet privacy" target="Mug shot publishing industry"></edge>
+      <edge id="7837" source="Internet privacy" target="Opera (web browser)"></edge>
+      <edge id="7838" source="Internet privacy" target="Personally identifiable information"></edge>
+      <edge id="7839" source="Internet privacy" target="Phishing"></edge>
+      <edge id="7840" source="Internet privacy" target="Presidency of Barack Obama"></edge>
+      <edge id="7841" source="Internet privacy" target="PRISM (surveillance program)"></edge>
+      <edge id="7842" source="Internet privacy" target="Privacy Act of 1974"></edge>
+      <edge id="7843" source="Internet privacy" target="Privacy-enhancing technologies"></edge>
+      <edge id="7844" source="Internet privacy" target="Privacy in Australian law"></edge>
+      <edge id="7845" source="Internet privacy" target="Privacy law"></edge>
+      <edge id="7846" source="Internet privacy" target="Privacy laws of the United States"></edge>
+      <edge id="7847" source="Internet privacy" target="Privacy"></edge>
+      <edge id="7848" source="Internet privacy" target="Privacy software"></edge>
+      <edge id="7849" source="Internet privacy" target="Proxy server"></edge>
+      <edge id="7850" source="Internet privacy" target="Right to be forgotten"></edge>
+      <edge id="7851" source="Internet privacy" target="Roe v. Wade"></edge>
+      <edge id="7852" source="Internet privacy" target="Search Encrypt (Search Engine)"></edge>
+      <edge id="7853" source="Internet privacy" target="Shuman Ghosemajumder"></edge>
+      <edge id="7854" source="Internet privacy" target="Snapchat"></edge>
+      <edge id="7855" source="Internet privacy" target="Social media"></edge>
+      <edge id="7856" source="Internet privacy" target="Spotify"></edge>
+      <edge id="7857" source="Internet privacy" target="Spyware"></edge>
+      <edge id="7858" source="Internet privacy" target="Surveillance"></edge>
+      <edge id="7859" source="Internet privacy" target="Tor (anonymity network)"></edge>
+      <edge id="7860" source="Internet privacy" target="Trojan horse (computing)"></edge>
+      <edge id="7861" source="Internet privacy" target="Twitter"></edge>
+      <edge id="7862" source="Internet privacy" target="Verizon Wireless"></edge>
+      <edge id="7863" source="Internet privacy" target="Virtual private network"></edge>
+      <edge id="7864" source="Internet privacy" target="Web 2.0"></edge>
+      <edge id="7865" source="Internet privacy" target="WebRTC"></edge>
+      <edge id="7866" source="Internet privacy" target="Web search engine"></edge>
+      <edge id="7867" source="Internet privacy" target="Web storage"></edge>
+      <edge id="7868" source="Internet privacy" target="Wickr"></edge>
+      <edge id="7869" source="Internet privacy" target="World Wide Web"></edge>
+      <edge id="7870" source="Internet privacy" target="Zombie cookie"></edge>
+      <edge id="7871" source="Privacy laws of the United States" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="7872" source="Privacy laws of the United States" target="Mass surveillance in the United States"></edge>
+      <edge id="7873" source="Privacy laws of the United States" target="Mass surveillance"></edge>
+      <edge id="7874" source="Privacy laws of the United States" target="PRISM (surveillance program)"></edge>
+      <edge id="7875" source="Privacy laws of the United States" target="Privacy International"></edge>
+      <edge id="7876" source="Privacy laws of the United States" target="Privacy"></edge>
+      <edge id="7877" source="Privacy laws of the United States" target="Roe v. Wade"></edge>
+      <edge id="7878" source="Ixquick" target="Criticism of Google"></edge>
+      <edge id="7879" source="Ixquick" target="Proxy server"></edge>
+      <edge id="7880" source="Ixquick" target="Tor (anonymity network)"></edge>
+      <edge id="7881" source="Ixquick" target="Web search engine"></edge>
+      <edge id="7882" source="Web 2.0" target="Facebook"></edge>
+      <edge id="7883" source="Web 2.0" target="Google"></edge>
+      <edge id="7884" source="Web 2.0" target="HTML5"></edge>
+      <edge id="7885" source="Web 2.0" target="Internet"></edge>
+      <edge id="7886" source="Web 2.0" target="Social media"></edge>
+      <edge id="7887" source="Web 2.0" target="User profile"></edge>
+      <edge id="7888" source="Web 2.0" target="World Wide Web"></edge>
+      <edge id="7889" source="P3P" target="Anonymizer"></edge>
+      <edge id="7890" source="P3P" target="Anonymous remailer"></edge>
+      <edge id="7891" source="P3P" target="Data Protection Directive"></edge>
+      <edge id="7892" source="P3P" target="HTTP cookie"></edge>
+      <edge id="7893" source="P3P" target="Internet privacy"></edge>
+      <edge id="7894" source="P3P" target="Mozilla"></edge>
+      <edge id="7895" source="P3P" target="Privacy"></edge>
+      <edge id="7896" source="P3P" target="World Wide Web"></edge>
+      <edge id="7897" source="Adobe Flash Player" target="Apple Inc."></edge>
+      <edge id="7898" source="Adobe Flash Player" target="Cross-site scripting"></edge>
+      <edge id="7899" source="Adobe Flash Player" target="Facebook"></edge>
+      <edge id="7900" source="Adobe Flash Player" target="Firefox"></edge>
+      <edge id="7901" source="Adobe Flash Player" target="Google Chrome"></edge>
+      <edge id="7902" source="Adobe Flash Player" target="Google"></edge>
+      <edge id="7903" source="Adobe Flash Player" target="HTML5"></edge>
+      <edge id="7904" source="Adobe Flash Player" target="HTTP cookie"></edge>
+      <edge id="7905" source="Adobe Flash Player" target="Internet Explorer 9"></edge>
+      <edge id="7906" source="Adobe Flash Player" target="Internet privacy"></edge>
+      <edge id="7907" source="Adobe Flash Player" target="IPhone"></edge>
+      <edge id="7908" source="Adobe Flash Player" target="Malware"></edge>
+      <edge id="7909" source="Adobe Flash Player" target="Mozilla"></edge>
+      <edge id="7910" source="Adobe Flash Player" target="Opera (web browser)"></edge>
+      <edge id="7911" source="Promotion (marketing)" target="Facebook"></edge>
+      <edge id="7912" source="Promotion (marketing)" target="Instagram"></edge>
+      <edge id="7913" source="Promotion (marketing)" target="Internet privacy"></edge>
+      <edge id="7914" source="Promotion (marketing)" target="Snapchat"></edge>
+      <edge id="7915" source="Promotion (marketing)" target="Social media"></edge>
+      <edge id="7916" source="Promotion (marketing)" target="Twitter"></edge>
+      <edge id="7917" source="Personally identifiable information" target="Anonymity"></edge>
+      <edge id="7918" source="Personally identifiable information" target="Data Protection Directive"></edge>
+      <edge id="7919" source="Personally identifiable information" target="Identity theft"></edge>
+      <edge id="7920" source="Personally identifiable information" target="Internet"></edge>
+      <edge id="7921" source="Personally identifiable information" target="IP address"></edge>
+      <edge id="7922" source="Personally identifiable information" target="Phishing"></edge>
+      <edge id="7923" source="Personally identifiable information" target="Privacy Act of 1974"></edge>
+      <edge id="7924" source="Personally identifiable information" target="Privacy"></edge>
+      <edge id="7925" source="Personally identifiable information" target="Proxy server"></edge>
+      <edge id="7926" source="Personally identifiable information" target="Surveillance"></edge>
+      <edge id="7927" source="Java Anon Proxy" target="Anonymous P2P"></edge>
+      <edge id="7928" source="Java Anon Proxy" target="Anonymous remailer"></edge>
+      <edge id="7929" source="Java Anon Proxy" target="I2P"></edge>
+      <edge id="7930" source="Java Anon Proxy" target="Internet privacy"></edge>
+      <edge id="7931" source="Java Anon Proxy" target="Proxy server"></edge>
+      <edge id="7932" source="Java Anon Proxy" target="Tor (anonymity network)"></edge>
+      <edge id="7933" source="Java Anon Proxy" target="World Wide Web"></edge>
+      <edge id="7934" source="Mozilla Corporation" target="Apple Inc."></edge>
+      <edge id="7935" source="Mozilla Corporation" target="Facebook"></edge>
+      <edge id="7936" source="Mozilla Corporation" target="Firefox"></edge>
+      <edge id="7937" source="Mozilla Corporation" target="Google Chrome"></edge>
+      <edge id="7938" source="Mozilla Corporation" target="Google"></edge>
+      <edge id="7939" source="Mozilla Corporation" target="HTTP cookie"></edge>
+      <edge id="7940" source="Mozilla Corporation" target="Internet"></edge>
+      <edge id="7941" source="Mozilla Corporation" target="Internet privacy"></edge>
+      <edge id="7942" source="Mozilla Corporation" target="Mozilla"></edge>
+      <edge id="7943" source="Mozilla Corporation" target="Phishing"></edge>
+      <edge id="7944" source="Mozilla Corporation" target="Web search engine"></edge>
+      <edge id="7945" source="Digital rights" target="Anti-Counterfeiting Trade Agreement"></edge>
+      <edge id="7946" source="Digital rights" target="Google"></edge>
+      <edge id="7947" source="Digital rights" target="Internet censorship"></edge>
+      <edge id="7948" source="Digital rights" target="Internet"></edge>
+      <edge id="7949" source="Digital rights" target="Internet privacy"></edge>
+      <edge id="7950" source="Digital rights" target="Privacy"></edge>
+      <edge id="7951" source="Digital rights" target="Surveillance"></edge>
+      <edge id="7952" source="Data retention" target="Anonymizer"></edge>
+      <edge id="7953" source="Data retention" target="Anonymous P2P"></edge>
+      <edge id="7954" source="Data retention" target="I2P"></edge>
+      <edge id="7955" source="Data retention" target="Internet"></edge>
+      <edge id="7956" source="Data retention" target="Internet service provider"></edge>
+      <edge id="7957" source="Data retention" target="IP address"></edge>
+      <edge id="7958" source="Data retention" target="Java Anon Proxy"></edge>
+      <edge id="7959" source="Data retention" target="Mass surveillance"></edge>
+      <edge id="7960" source="Data retention" target="PRISM (surveillance program)"></edge>
+      <edge id="7961" source="Data retention" target="Privacy"></edge>
+      <edge id="7962" source="Data retention" target="Tor (anonymity network)"></edge>
+      <edge id="7963" source="Google Analytics" target="Ad blocking"></edge>
+      <edge id="7964" source="Google Analytics" target="Disconnect Mobile"></edge>
+      <edge id="7965" source="Google Analytics" target="Google"></edge>
+      <edge id="7966" source="Google Analytics" target="HTTP cookie"></edge>
+      <edge id="7967" source="Google Analytics" target="IP address"></edge>
+      <edge id="7968" source="Google Analytics" target="Privacy law"></edge>
+      <edge id="7969" source="Google Analytics" target="Tor (anonymity network)"></edge>
+      <edge id="7970" source="Google Analytics" target="Web beacon"></edge>
+      <edge id="7971" source="OpenNet Initiative" target="Freedom of information"></edge>
+      <edge id="7972" source="OpenNet Initiative" target="Internet censorship circumvention"></edge>
+      <edge id="7973" source="OpenNet Initiative" target="Internet censorship"></edge>
+      <edge id="7974" source="OpenNet Initiative" target="Internet privacy"></edge>
+      <edge id="7975" source="OpenNet Initiative" target="Proxy server"></edge>
+      <edge id="7976" source="Privacy software" target="Anonymity"></edge>
+      <edge id="7977" source="Privacy software" target="I2P"></edge>
+      <edge id="7978" source="Privacy software" target="Identity theft"></edge>
+      <edge id="7979" source="Privacy software" target="Internet"></edge>
+      <edge id="7980" source="Privacy software" target="Internet privacy"></edge>
+      <edge id="7981" source="Privacy software" target="IP address"></edge>
+      <edge id="7982" source="Privacy software" target="Privacy-enhancing technologies"></edge>
+      <edge id="7983" source="Privacy software" target="Privacy"></edge>
+      <edge id="7984" source="Privacy software" target="Proxy server"></edge>
+      <edge id="7985" source="Privacy software" target="Tor (anonymity network)"></edge>
+      <edge id="7986" source="Privacy software" target="World Wide Web"></edge>
+      <edge id="7987" source="Reddit" target="Facebook"></edge>
+      <edge id="7988" source="Reddit" target="Internet privacy"></edge>
+      <edge id="7989" source="Reddit" target="Internet vigilantism"></edge>
+      <edge id="7990" source="Reddit" target="Proxy server"></edge>
+      <edge id="7991" source="Reddit" target="Slashdot"></edge>
+      <edge id="7992" source="Reddit" target="Social media"></edge>
+      <edge id="7993" source="Reddit" target="Web 2.0"></edge>
+      <edge id="7994" source="Anonymous post" target="Anonymizer"></edge>
+      <edge id="7995" source="Anonymous post" target="Facebook"></edge>
+      <edge id="7996" source="Anonymous post" target="I2P"></edge>
+      <edge id="7997" source="Anonymous post" target="IP address"></edge>
+      <edge id="7998" source="Anonymous post" target="Proxy server"></edge>
+      <edge id="7999" source="Anonymous post" target="Reddit"></edge>
+      <edge id="8000" source="Anonymous post" target="Slashdot"></edge>
+      <edge id="8001" source="Anonymous post" target="Tor (anonymity network)"></edge>
+      <edge id="8002" source="Anonymous post" target="Twitter"></edge>
+      <edge id="8003" source="Web search engine" target="Comparison of web search engines"></edge>
+      <edge id="8004" source="Web search engine" target="DuckDuckGo"></edge>
+      <edge id="8005" source="Web search engine" target="Facebook"></edge>
+      <edge id="8006" source="Web search engine" target="Filter bubble"></edge>
+      <edge id="8007" source="Web search engine" target="Google"></edge>
+      <edge id="8008" source="Web search engine" target="Helen Nissenbaum"></edge>
+      <edge id="8009" source="Web search engine" target="Internet"></edge>
+      <edge id="8010" source="Web search engine" target="Ixquick"></edge>
+      <edge id="8011" source="Web search engine" target="Search Encrypt (Search Engine)"></edge>
+      <edge id="8012" source="HTTP cookie" target="Canvas fingerprinting"></edge>
+      <edge id="8013" source="HTTP cookie" target="Cross-site scripting"></edge>
+      <edge id="8014" source="HTTP cookie" target="DuckDuckGo"></edge>
+      <edge id="8015" source="HTTP cookie" target="Facebook"></edge>
+      <edge id="8016" source="HTTP cookie" target="Google Chrome"></edge>
+      <edge id="8017" source="HTTP cookie" target="Google"></edge>
+      <edge id="8018" source="HTTP cookie" target="HTML5"></edge>
+      <edge id="8019" source="HTTP cookie" target="Internet privacy"></edge>
+      <edge id="8020" source="HTTP cookie" target="IP address"></edge>
+      <edge id="8021" source="HTTP cookie" target="Opera (web browser)"></edge>
+      <edge id="8022" source="HTTP cookie" target="P3P"></edge>
+      <edge id="8023" source="HTTP cookie" target="Privacy International"></edge>
+      <edge id="8024" source="HTTP cookie" target="Proxy server"></edge>
+      <edge id="8025" source="HTTP cookie" target="Tor (anonymity network)"></edge>
+      <edge id="8026" source="HTTP cookie" target="Web storage"></edge>
+      <edge id="8027" source="Privacy law" target="Data Protection Directive"></edge>
+      <edge id="8028" source="Privacy law" target="Data protection (privacy) laws in Russia"></edge>
+      <edge id="8029" source="Privacy law" target="Personally identifiable information"></edge>
+      <edge id="8030" source="Privacy law" target="Privacy Act of 1974"></edge>
+      <edge id="8031" source="Privacy law" target="Privacy"></edge>
+      <edge id="8032" source="Privacy law" target="Right to be forgotten"></edge>
+      <edge id="8033" source="Information sensitivity" target="Computer security"></edge>
+      <edge id="8034" source="Information sensitivity" target="Data Protection Directive"></edge>
+      <edge id="8035" source="Information sensitivity" target="Identity theft"></edge>
+      <edge id="8036" source="Information sensitivity" target="Internet privacy"></edge>
+      <edge id="8037" source="Information sensitivity" target="Personally identifiable information"></edge>
+      <edge id="8038" source="Information sensitivity" target="Privacy law"></edge>
+      <edge id="8039" source="Information sensitivity" target="Privacy"></edge>
+      <edge id="8040" source="Anonymous web browsing" target="Adobe Flash Player"></edge>
+      <edge id="8041" source="Anonymous web browsing" target="Anonymity"></edge>
+      <edge id="8042" source="Anonymous web browsing" target="Anonymous P2P"></edge>
+      <edge id="8043" source="Anonymous web browsing" target="Anonymous remailer"></edge>
+      <edge id="8044" source="Anonymous web browsing" target="HTTP cookie"></edge>
+      <edge id="8045" source="Anonymous web browsing" target="Internet privacy"></edge>
+      <edge id="8046" source="Anonymous web browsing" target="IP address"></edge>
+      <edge id="8047" source="Anonymous web browsing" target="Personally identifiable information"></edge>
+      <edge id="8048" source="Anonymous web browsing" target="Privacy-enhancing technologies"></edge>
+      <edge id="8049" source="Anonymous web browsing" target="Privacy software"></edge>
+      <edge id="8050" source="Anonymous web browsing" target="Proxy server"></edge>
+      <edge id="8051" source="Anonymous web browsing" target="Tor (anonymity network)"></edge>
+      <edge id="8052" source="Anonymous web browsing" target="Virtual private network"></edge>
+      <edge id="8053" source="Anonymous web browsing" target="WebRTC"></edge>
+      <edge id="8054" source="Anonymous web browsing" target="World Wide Web"></edge>
+      <edge id="8055" source="Social media" target="Facebook"></edge>
+      <edge id="8056" source="Social media" target="Google"></edge>
+      <edge id="8057" source="Social media" target="Instagram"></edge>
+      <edge id="8058" source="Social media" target="Internet"></edge>
+      <edge id="8059" source="Social media" target="Privacy"></edge>
+      <edge id="8060" source="Social media" target="Snapchat"></edge>
+      <edge id="8061" source="Social media" target="Twitter"></edge>
+      <edge id="8062" source="Social media" target="Web 2.0"></edge>
+      <edge id="8063" source="Social media" target="World Wide Web"></edge>
+      <edge id="8064" source="Lobbying in the United States" target="Internet service provider"></edge>
+      <edge id="8065" source="Lobbying in the United States" target="Jeff Flake"></edge>
+      <edge id="8066" source="Lobbying in the United States" target="Presidency of Barack Obama"></edge>
+      <edge id="8067" source="Lobbying in the United States" target="Roe v. Wade"></edge>
+      <edge id="8068" source="Internet vigilantism" target="Internet"></edge>
+      <edge id="8069" source="Internet vigilantism" target="Phishing"></edge>
+      <edge id="8070" source="Internet vigilantism" target="Reddit"></edge>
+      <edge id="8071" source="Internet vigilantism" target="Slashdot"></edge>
+      <edge id="8072" source="Internet vigilantism" target="Twitter"></edge>
+      <edge id="8073" source="Internet vigilantism" target="World Wide Web"></edge>
+      <edge id="8074" source="Facebook" target="Ad blocking"></edge>
+      <edge id="8075" source="Facebook" target="Apple Inc."></edge>
+      <edge id="8076" source="Facebook" target="Criticism of Facebook"></edge>
+      <edge id="8077" source="Facebook" target="Filter bubble"></edge>
+      <edge id="8078" source="Facebook" target="Google"></edge>
+      <edge id="8079" source="Facebook" target="Instagram"></edge>
+      <edge id="8080" source="Facebook" target="Internet censorship"></edge>
+      <edge id="8081" source="Facebook" target="Internet censorship in Iran"></edge>
+      <edge id="8082" source="Facebook" target="Internet"></edge>
+      <edge id="8083" source="Facebook" target="Internet privacy"></edge>
+      <edge id="8084" source="Facebook" target="IPhone"></edge>
+      <edge id="8085" source="Facebook" target="PRISM (surveillance program)"></edge>
+      <edge id="8086" source="Facebook" target="Privacy"></edge>
+      <edge id="8087" source="Facebook" target="Social media"></edge>
+      <edge id="8088" source="Facebook" target="Twitter"></edge>
+      <edge id="8089" source="HTML5" target="Apple Inc."></edge>
+      <edge id="8090" source="HTML5" target="Firefox"></edge>
+      <edge id="8091" source="HTML5" target="Google"></edge>
+      <edge id="8092" source="HTML5" target="WebRTC"></edge>
+      <edge id="8093" source="HTML5" target="Web storage"></edge>
+      <edge id="8094" source="HTML5" target="World Wide Web"></edge>
+      <edge id="8095" source="Outline of the Internet" target="Google"></edge>
+      <edge id="8096" source="Outline of the Internet" target="Internet censorship circumvention"></edge>
+      <edge id="8097" source="Outline of the Internet" target="Internet censorship"></edge>
+      <edge id="8098" source="Outline of the Internet" target="Internet"></edge>
+      <edge id="8099" source="Outline of the Internet" target="Internet privacy"></edge>
+      <edge id="8100" source="Outline of the Internet" target="Internet service provider"></edge>
+      <edge id="8101" source="Outline of the Internet" target="World Wide Web"></edge>
+      <edge id="8102" source="IPhone" target="Apple Inc."></edge>
+      <edge id="8103" source="IPhone" target="AT&amp;T Mobility"></edge>
+      <edge id="8104" source="IPhone" target="Google Chrome"></edge>
+      <edge id="8105" source="IPhone" target="Google"></edge>
+      <edge id="8106" source="IPhone" target="Verizon Wireless"></edge>
+      <edge id="8107" source="Criticism of Google" target="Filter bubble"></edge>
+      <edge id="8108" source="Criticism of Google" target="Google"></edge>
+      <edge id="8109" source="Criticism of Google" target="Internet privacy"></edge>
+      <edge id="8110" source="Criticism of Google" target="Privacy International"></edge>
+      <edge id="8111" source="Criticism of Google" target="Twitter"></edge>
+      <edge id="8112" source="Criticism of Google" target="Web 2.0"></edge>
+      <edge id="8113" source="Twitter" target="Data Protection Directive"></edge>
+      <edge id="8114" source="Twitter" target="Facebook"></edge>
+      <edge id="8115" source="Twitter" target="Firefox"></edge>
+      <edge id="8116" source="Twitter" target="Google Analytics"></edge>
+      <edge id="8117" source="Twitter" target="Google"></edge>
+      <edge id="8118" source="Twitter" target="HTTP cookie"></edge>
+      <edge id="8119" source="Twitter" target="Internet"></edge>
+      <edge id="8120" source="Twitter" target="IPhone"></edge>
+      <edge id="8121" source="Twitter" target="Personally identifiable information"></edge>
+      <edge id="8122" source="Internet censorship" target="Anonymizer"></edge>
+      <edge id="8123" source="Internet censorship" target="Anti-Counterfeiting Trade Agreement"></edge>
+      <edge id="8124" source="Internet censorship" target="Criticism of Google"></edge>
+      <edge id="8125" source="Internet censorship" target="Digital rights"></edge>
+      <edge id="8126" source="Internet censorship" target="Facebook"></edge>
+      <edge id="8127" source="Internet censorship" target="Freenet"></edge>
+      <edge id="8128" source="Internet censorship" target="Global Network Initiative"></edge>
+      <edge id="8129" source="Internet censorship" target="Google"></edge>
+      <edge id="8130" source="Internet censorship" target="Internet censorship circumvention"></edge>
+      <edge id="8131" source="Internet censorship" target="Internet censorship in Iran"></edge>
+      <edge id="8132" source="Internet censorship" target="Internet censorship in the United Kingdom"></edge>
+      <edge id="8133" source="Internet censorship" target="Internet"></edge>
+      <edge id="8134" source="Internet censorship" target="Internet privacy"></edge>
+      <edge id="8135" source="Internet censorship" target="IP address"></edge>
+      <edge id="8136" source="Internet censorship" target="Malware"></edge>
+      <edge id="8137" source="Internet censorship" target="OpenNet Initiative"></edge>
+      <edge id="8138" source="Internet censorship" target="Open Technology Fund"></edge>
+      <edge id="8139" source="Internet censorship" target="Proxy server"></edge>
+      <edge id="8140" source="Internet censorship" target="Twitter"></edge>
+      <edge id="8141" source="Internet censorship" target="Virtual private network"></edge>
+      <edge id="8142" source="Anonymizer (company)" target="Internet censorship"></edge>
+      <edge id="8143" source="Anonymizer (company)" target="Internet privacy"></edge>
+      <edge id="8144" source="Anonymizer (company)" target="IPhone"></edge>
+      <edge id="8145" source="Anonymizer (company)" target="Java Anon Proxy"></edge>
+      <edge id="8146" source="Anonymizer (company)" target="Phishing"></edge>
+      <edge id="8147" source="Anonymizer (company)" target="Proxy server"></edge>
+      <edge id="8148" source="Anonymizer (company)" target="Tor (anonymity network)"></edge>
+      <edge id="8149" source="Anonymizer" target="Anonymizer (company)"></edge>
+      <edge id="8150" source="Anonymizer" target="Anonymous remailer"></edge>
+      <edge id="8151" source="Anonymizer" target="Anonymous web browsing"></edge>
+      <edge id="8152" source="Anonymizer" target="I2P"></edge>
+      <edge id="8153" source="Anonymizer" target="Internet censorship in Iran"></edge>
+      <edge id="8154" source="Anonymizer" target="Internet"></edge>
+      <edge id="8155" source="Anonymizer" target="Java Anon Proxy"></edge>
+      <edge id="8156" source="Anonymizer" target="Proxy server"></edge>
+      <edge id="8157" source="Anonymizer" target="Tor (anonymity network)"></edge>
+      <edge id="8158" source="Anonymizer" target="World Wide Web"></edge>
+      <edge id="8159" source="Internet censorship in Iran" target="Anonymizer"></edge>
+      <edge id="8160" source="Internet censorship in Iran" target="Facebook"></edge>
+      <edge id="8161" source="Internet censorship in Iran" target="Google"></edge>
+      <edge id="8162" source="Internet censorship in Iran" target="Instagram"></edge>
+      <edge id="8163" source="Internet censorship in Iran" target="Internet"></edge>
+      <edge id="8164" source="Internet censorship in Iran" target="Internet privacy"></edge>
+      <edge id="8165" source="Internet censorship in Iran" target="Internet service provider"></edge>
+      <edge id="8166" source="Internet censorship in Iran" target="OpenNet Initiative"></edge>
+      <edge id="8167" source="Internet censorship in Iran" target="Proxy server"></edge>
+      <edge id="8168" source="Internet censorship in Iran" target="Twitter"></edge>
+      <edge id="8169" source="Internet censorship in Iran" target="World Wide Web"></edge>
+      <edge id="8170" source="Internet censorship in the United Kingdom" target="Civil liberties"></edge>
+      <edge id="8171" source="Internet censorship in the United Kingdom" target="Google"></edge>
+      <edge id="8172" source="Internet censorship in the United Kingdom" target="Internet censorship"></edge>
+      <edge id="8173" source="Internet censorship in the United Kingdom" target="Internet privacy"></edge>
+      <edge id="8174" source="Internet censorship in the United Kingdom" target="Mass surveillance in the United Kingdom"></edge>
+      <edge id="8175" source="Internet censorship in the United Kingdom" target="Social media"></edge>
+      <edge id="8176" source="Criticism of Facebook" target="Criticism of Google"></edge>
+      <edge id="8177" source="Criticism of Facebook" target="Cross-site scripting"></edge>
+      <edge id="8178" source="Criticism of Facebook" target="Facebook"></edge>
+      <edge id="8179" source="Criticism of Facebook" target="Filter bubble"></edge>
+      <edge id="8180" source="Criticism of Facebook" target="Google Analytics"></edge>
+      <edge id="8181" source="Criticism of Facebook" target="Internet"></edge>
+      <edge id="8182" source="Criticism of Facebook" target="Internet privacy"></edge>
+      <edge id="8183" source="Criticism of Facebook" target="Internet service provider"></edge>
+      <edge id="8184" source="Criticism of Facebook" target="Lane v. Facebook, Inc."></edge>
+      <edge id="8185" source="Criticism of Facebook" target="Malware"></edge>
+      <edge id="8186" source="Criticism of Facebook" target="PRISM (surveillance program)"></edge>
+      <edge id="8187" source="Criticism of Facebook" target="Terms of service"></edge>
+      <edge id="8188" source="Criticism of Facebook" target="User profile"></edge>
+      <edge id="8189" source="Privacy-invasive software" target="Google"></edge>
+      <edge id="8190" source="Privacy-invasive software" target="Internet"></edge>
+      <edge id="8191" source="Privacy-invasive software" target="Internet privacy"></edge>
+      <edge id="8192" source="Privacy-invasive software" target="Malware"></edge>
+      <edge id="8193" source="Privacy-invasive software" target="Privacy"></edge>
+      <edge id="8194" source="Privacy-invasive software" target="Spyware"></edge>
+      <edge id="8195" source="Privacy-invasive software" target="Trojan horse (computing)"></edge>
+      <edge id="8196" source="Privacy-invasive software" target="World Wide Web"></edge>
+      <edge id="8197" source="Privacy-enhancing technologies" target="Anonymizer"></edge>
+      <edge id="8198" source="Privacy-enhancing technologies" target="I2P"></edge>
+      <edge id="8199" source="Privacy-enhancing technologies" target="P3P"></edge>
+      <edge id="8200" source="Privacy-enhancing technologies" target="Personally identifiable information"></edge>
+      <edge id="8201" source="Privacy-enhancing technologies" target="Privacy by design"></edge>
+      <edge id="8202" source="Privacy-enhancing technologies" target="Privacy"></edge>
+      <edge id="8203" source="Privacy-enhancing technologies" target="Privacy software"></edge>
+      <edge id="8204" source="Internet Explorer 9" target="Facebook"></edge>
+      <edge id="8205" source="Internet Explorer 9" target="Firefox"></edge>
+      <edge id="8206" source="Internet Explorer 9" target="Google Chrome"></edge>
+      <edge id="8207" source="Internet Explorer 9" target="Google"></edge>
+      <edge id="8208" source="Internet Explorer 9" target="HTML5"></edge>
+      <edge id="8209" source="Internet Explorer 9" target="Internet privacy"></edge>
+      <edge id="8210" source="Internet Explorer 9" target="Opera (web browser)"></edge>
+      <edge id="8211" source="Internet Explorer 9" target="Twitter"></edge>
+      <edge id="8212" source="Anti-Counterfeiting Trade Agreement" target="Digital rights"></edge>
+      <edge id="8213" source="Anti-Counterfeiting Trade Agreement" target="Facebook"></edge>
+      <edge id="8214" source="Anti-Counterfeiting Trade Agreement" target="Freedom of information"></edge>
+      <edge id="8215" source="Anti-Counterfeiting Trade Agreement" target="Google"></edge>
+      <edge id="8216" source="Anti-Counterfeiting Trade Agreement" target="Internet privacy"></edge>
+      <edge id="8217" source="Anti-Counterfeiting Trade Agreement" target="Privacy"></edge>
+      <edge id="8218" source="Anti-Counterfeiting Trade Agreement" target="Web 2.0"></edge>
+      <edge id="8219" source="Canadian privacy law" target="Privacy law"></edge>
+      <edge id="8220" source="Canadian privacy law" target="Privacy"></edge>
+      <edge id="8221" source="Opera (web browser)" target="Adobe Flash Player"></edge>
+      <edge id="8222" source="Opera (web browser)" target="Firefox"></edge>
+      <edge id="8223" source="Opera (web browser)" target="Google Chrome"></edge>
+      <edge id="8224" source="Opera (web browser)" target="Google"></edge>
+      <edge id="8225" source="Opera (web browser)" target="HTTP cookie"></edge>
+      <edge id="8226" source="Opera (web browser)" target="Malware"></edge>
+      <edge id="8227" source="Opera (web browser)" target="Mozilla Corporation"></edge>
+      <edge id="8228" source="Opera (web browser)" target="Phishing"></edge>
+      <edge id="8229" source="Opera (web browser)" target="Virtual private network"></edge>
+      <edge id="8230" source="Google Chrome" target="Ad blocking"></edge>
+      <edge id="8231" source="Google Chrome" target="Adobe Flash Player"></edge>
+      <edge id="8232" source="Google Chrome" target="Apple Inc."></edge>
+      <edge id="8233" source="Google Chrome" target="Chromebook"></edge>
+      <edge id="8234" source="Google Chrome" target="Firefox"></edge>
+      <edge id="8235" source="Google Chrome" target="Ghostery"></edge>
+      <edge id="8236" source="Google Chrome" target="Google"></edge>
+      <edge id="8237" source="Google Chrome" target="HTML5"></edge>
+      <edge id="8238" source="Google Chrome" target="HTTP cookie"></edge>
+      <edge id="8239" source="Google Chrome" target="Internet Explorer 9"></edge>
+      <edge id="8240" source="Google Chrome" target="IP address"></edge>
+      <edge id="8241" source="Google Chrome" target="IPhone"></edge>
+      <edge id="8242" source="Google Chrome" target="Malware"></edge>
+      <edge id="8243" source="Google Chrome" target="Mozilla"></edge>
+      <edge id="8244" source="Google Chrome" target="Opera (web browser)"></edge>
+      <edge id="8245" source="Google Chrome" target="Phishing"></edge>
+      <edge id="8246" source="Google Chrome" target="Privacy Badger"></edge>
+      <edge id="8247" source="Google Chrome" target="WebRTC"></edge>
+      <edge id="8248" source="Presidency of Barack Obama" target="Computer security"></edge>
+      <edge id="8249" source="Presidency of Barack Obama" target="Cybersecurity Information Sharing Act"></edge>
+      <edge id="8250" source="Presidency of Barack Obama" target="Internet"></edge>
+      <edge id="8251" source="Presidency of Barack Obama" target="Mass surveillance in the United States"></edge>
+      <edge id="8252" source="Presidency of Barack Obama" target="Mass surveillance"></edge>
+      <edge id="8253" source="Presidency of Barack Obama" target="PRISM (surveillance program)"></edge>
+      <edge id="8254" source="Presidency of Barack Obama" target="United States Senate Committee on the Judiciary"></edge>
+      <edge id="8255" source="Spotify" target="Apple Inc."></edge>
+      <edge id="8256" source="Spotify" target="Google"></edge>
+      <edge id="8257" source="Spotify" target="Social media"></edge>
+      <edge id="8258" source="Spotify" target="Twitter"></edge>
+      <edge id="8259" source="Global Network Initiative" target="Facebook"></edge>
+      <edge id="8260" source="Global Network Initiative" target="Google"></edge>
+      <edge id="8261" source="Global Network Initiative" target="Internet censorship"></edge>
+      <edge id="8262" source="Global Network Initiative" target="Internet privacy"></edge>
+      <edge id="8263" source="Global Network Initiative" target="Privacy"></edge>
+      <edge id="8264" source="Tor (anonymity network)" target="Anonymous P2P"></edge>
+      <edge id="8265" source="Tor (anonymity network)" target="Anonymous web browsing"></edge>
+      <edge id="8266" source="Tor (anonymity network)" target="Bitmessage"></edge>
+      <edge id="8267" source="Tor (anonymity network)" target="Bruce Schneier"></edge>
+      <edge id="8268" source="Tor (anonymity network)" target="Darknet"></edge>
+      <edge id="8269" source="Tor (anonymity network)" target="Digital privacy"></edge>
+      <edge id="8270" source="Tor (anonymity network)" target="Firefox"></edge>
+      <edge id="8271" source="Tor (anonymity network)" target="Freedom of information"></edge>
+      <edge id="8272" source="Tor (anonymity network)" target="Freenet"></edge>
+      <edge id="8273" source="Tor (anonymity network)" target="GNUnet"></edge>
+      <edge id="8274" source="Tor (anonymity network)" target="Google"></edge>
+      <edge id="8275" source="Tor (anonymity network)" target="HTTP cookie"></edge>
+      <edge id="8276" source="Tor (anonymity network)" target="I2P"></edge>
+      <edge id="8277" source="Tor (anonymity network)" target="Identity theft"></edge>
+      <edge id="8278" source="Tor (anonymity network)" target="Internet censorship circumvention"></edge>
+      <edge id="8279" source="Tor (anonymity network)" target="Internet censorship"></edge>
+      <edge id="8280" source="Tor (anonymity network)" target="Internet privacy"></edge>
+      <edge id="8281" source="Tor (anonymity network)" target="IP address"></edge>
+      <edge id="8282" source="Tor (anonymity network)" target="Java Anon Proxy"></edge>
+      <edge id="8283" source="Tor (anonymity network)" target="PRISM (surveillance program)"></edge>
+      <edge id="8284" source="Tor (anonymity network)" target="Proxy server"></edge>
+      <edge id="8285" source="Tor (anonymity network)" target="Reddit"></edge>
+      <edge id="8286" source="Tor (anonymity network)" target="Tails (operating system)"></edge>
+      <edge id="8287" source="Tor (anonymity network)" target="The Guardian Project (software)"></edge>
+      <edge id="8288" source="Tor (anonymity network)" target="Tor-ramdisk"></edge>
+      <edge id="8289" source="Tor (anonymity network)" target="Twitter"></edge>
+      <edge id="8290" source="Tor (anonymity network)" target="World Wide Web"></edge>
+      <edge id="8291" source="Tor-ramdisk" target="Internet censorship"></edge>
+      <edge id="8292" source="Tor-ramdisk" target="Internet privacy"></edge>
+      <edge id="8293" source="Tor-ramdisk" target="Tor (anonymity network)"></edge>
+      <edge id="8294" source="DuckDuckGo" target="Apple Inc."></edge>
+      <edge id="8295" source="DuckDuckGo" target="Comparison of web search engines"></edge>
+      <edge id="8296" source="DuckDuckGo" target="Filter bubble"></edge>
+      <edge id="8297" source="DuckDuckGo" target="Firefox"></edge>
+      <edge id="8298" source="DuckDuckGo" target="Google Chrome"></edge>
+      <edge id="8299" source="DuckDuckGo" target="Google"></edge>
+      <edge id="8300" source="DuckDuckGo" target="Internet privacy"></edge>
+      <edge id="8301" source="DuckDuckGo" target="Mozilla"></edge>
+      <edge id="8302" source="DuckDuckGo" target="PRISM (surveillance program)"></edge>
+      <edge id="8303" source="DuckDuckGo" target="Reddit"></edge>
+      <edge id="8304" source="DuckDuckGo" target="Tor (anonymity network)"></edge>
+      <edge id="8305" source="DuckDuckGo" target="Twitter"></edge>
+      <edge id="8306" source="DuckDuckGo" target="Web search engine"></edge>
+      <edge id="8307" source="Web storage" target="Firefox"></edge>
+      <edge id="8308" source="Web storage" target="Google Chrome"></edge>
+      <edge id="8309" source="Web storage" target="HTML5"></edge>
+      <edge id="8310" source="Web storage" target="HTTP cookie"></edge>
+      <edge id="8311" source="Web storage" target="Mozilla"></edge>
+      <edge id="8312" source="Web storage" target="Opera (web browser)"></edge>
+      <edge id="8313" source="Website visitor tracking" target="Evercookie"></edge>
+      <edge id="8314" source="Website visitor tracking" target="Google Analytics"></edge>
+      <edge id="8315" source="Website visitor tracking" target="Internet privacy"></edge>
+      <edge id="8316" source="Website visitor tracking" target="Web beacon"></edge>
+      <edge id="8317" source="Data protection (privacy) laws in Russia" target="Personally identifiable information"></edge>
+      <edge id="8318" source="Data protection (privacy) laws in Russia" target="Privacy law"></edge>
+      <edge id="8319" source="Data protection (privacy) laws in Russia" target="Privacy"></edge>
+      <edge id="8320" source="Robbins v. Lower Merion School District" target="Apple Inc."></edge>
+      <edge id="8321" source="Robbins v. Lower Merion School District" target="Facebook"></edge>
+      <edge id="8322" source="Robbins v. Lower Merion School District" target="Internet privacy"></edge>
+      <edge id="8323" source="Robbins v. Lower Merion School District" target="Internet service provider"></edge>
+      <edge id="8324" source="Robbins v. Lower Merion School District" target="Spyware"></edge>
+      <edge id="8325" source="Lane v. Facebook, Inc." target="Facebook"></edge>
+      <edge id="8326" source="Lane v. Facebook, Inc." target="Internet privacy"></edge>
+      <edge id="8327" source="Lane v. Facebook, Inc." target="Personally identifiable information"></edge>
+      <edge id="8328" source="Lane v. Facebook, Inc." target="Social media"></edge>
+      <edge id="8329" source="Evercookie" target="Adobe Flash Player"></edge>
+      <edge id="8330" source="Evercookie" target="Canvas fingerprinting"></edge>
+      <edge id="8331" source="Evercookie" target="HTTP cookie"></edge>
+      <edge id="8332" source="Evercookie" target="Tor (anonymity network)"></edge>
+      <edge id="8333" source="Evercookie" target="Web storage"></edge>
+      <edge id="8334" source="Evercookie" target="Zombie cookie"></edge>
+      <edge id="8335" source="Zombie cookie" target="Evercookie"></edge>
+      <edge id="8336" source="Zombie cookie" target="HTML5"></edge>
+      <edge id="8337" source="Zombie cookie" target="HTTP cookie"></edge>
+      <edge id="8338" source="Zombie cookie" target="Personally identifiable information"></edge>
+      <edge id="8339" source="Digital privacy" target="Internet privacy"></edge>
+      <edge id="8340" source="Digital privacy" target="Mass surveillance"></edge>
+      <edge id="8341" source="Digital privacy" target="PRISM (surveillance program)"></edge>
+      <edge id="8342" source="Digital privacy" target="Privacy concerns with social networking services"></edge>
+      <edge id="8343" source="Digital privacy" target="Privacy"></edge>
+      <edge id="8344" source="Digital privacy" target="Social media"></edge>
+      <edge id="8345" source="Instagram" target="Apple Inc."></edge>
+      <edge id="8346" source="Instagram" target="Facebook"></edge>
+      <edge id="8347" source="Instagram" target="Google"></edge>
+      <edge id="8348" source="Instagram" target="HTML5"></edge>
+      <edge id="8349" source="Instagram" target="Internet"></edge>
+      <edge id="8350" source="Instagram" target="Snapchat"></edge>
+      <edge id="8351" source="Instagram" target="Twitter"></edge>
+      <edge id="8352" source="Privacy concerns with social networking services" target="Criticism of Facebook"></edge>
+      <edge id="8353" source="Privacy concerns with social networking services" target="DuckDuckGo"></edge>
+      <edge id="8354" source="Privacy concerns with social networking services" target="Facebook"></edge>
+      <edge id="8355" source="Privacy concerns with social networking services" target="Identity theft"></edge>
+      <edge id="8356" source="Privacy concerns with social networking services" target="Instagram"></edge>
+      <edge id="8357" source="Privacy concerns with social networking services" target="Internet privacy"></edge>
+      <edge id="8358" source="Privacy concerns with social networking services" target="IP address"></edge>
+      <edge id="8359" source="Privacy concerns with social networking services" target="Privacy Act of 1974"></edge>
+      <edge id="8360" source="Privacy concerns with social networking services" target="Privacy"></edge>
+      <edge id="8361" source="Privacy concerns with social networking services" target="Right to be forgotten"></edge>
+      <edge id="8362" source="Privacy concerns with social networking services" target="Social media"></edge>
+      <edge id="8363" source="Privacy concerns with social networking services" target="Twitter"></edge>
+      <edge id="8364" source="Privacy concerns with social networking services" target="Web 2.0"></edge>
+      <edge id="8365" source="Filter bubble" target="Disconnect Mobile"></edge>
+      <edge id="8366" source="Filter bubble" target="DuckDuckGo"></edge>
+      <edge id="8367" source="Filter bubble" target="Facebook"></edge>
+      <edge id="8368" source="Filter bubble" target="Google"></edge>
+      <edge id="8369" source="Filter bubble" target="HTTP cookie"></edge>
+      <edge id="8370" source="Filter bubble" target="Ixquick"></edge>
+      <edge id="8371" source="Filter bubble" target="MetaGer"></edge>
+      <edge id="8372" source="Filter bubble" target="Social media"></edge>
+      <edge id="8373" source="Filter bubble" target="Twitter"></edge>
+      <edge id="8374" source="Filter bubble" target="Web beacon"></edge>
+      <edge id="8375" source="Filter bubble" target="Website visitor tracking"></edge>
+      <edge id="8376" source="Tails (operating system)" target="Anonymity"></edge>
+      <edge id="8377" source="Tails (operating system)" target="Bruce Schneier"></edge>
+      <edge id="8378" source="Tails (operating system)" target="Firefox"></edge>
+      <edge id="8379" source="Tails (operating system)" target="Freedom of information"></edge>
+      <edge id="8380" source="Tails (operating system)" target="I2P"></edge>
+      <edge id="8381" source="Tails (operating system)" target="Internet censorship"></edge>
+      <edge id="8382" source="Tails (operating system)" target="Internet privacy"></edge>
+      <edge id="8383" source="Tails (operating system)" target="Mozilla"></edge>
+      <edge id="8384" source="Tails (operating system)" target="Privacy"></edge>
+      <edge id="8385" source="Tails (operating system)" target="Proxy server"></edge>
+      <edge id="8386" source="Tails (operating system)" target="Tor (anonymity network)"></edge>
+      <edge id="8387" source="Chromebook" target="Apple Inc."></edge>
+      <edge id="8388" source="Chromebook" target="Google Chrome"></edge>
+      <edge id="8389" source="Chromebook" target="Google"></edge>
+      <edge id="8390" source="Chromebook" target="Internet privacy"></edge>
+      <edge id="8391" source="Chromebook" target="Surveillance"></edge>
+      <edge id="8392" source="Chromebook" target="Virtual private network"></edge>
+      <edge id="8393" source="WebRTC" target="Ad blocking"></edge>
+      <edge id="8394" source="WebRTC" target="Google Chrome"></edge>
+      <edge id="8395" source="WebRTC" target="Google"></edge>
+      <edge id="8396" source="WebRTC" target="Internet privacy"></edge>
+      <edge id="8397" source="WebRTC" target="Internet security"></edge>
+      <edge id="8398" source="WebRTC" target="IP address"></edge>
+      <edge id="8399" source="WebRTC" target="Mozilla"></edge>
+      <edge id="8400" source="WebRTC" target="Opera (web browser)"></edge>
+      <edge id="8401" source="WebRTC" target="Virtual private network"></edge>
+      <edge id="8402" source="Ghostery" target="Ad blocking"></edge>
+      <edge id="8403" source="Ghostery" target="Canvas fingerprinting"></edge>
+      <edge id="8404" source="Ghostery" target="Disconnect Mobile"></edge>
+      <edge id="8405" source="Ghostery" target="Firefox"></edge>
+      <edge id="8406" source="Ghostery" target="Google Chrome"></edge>
+      <edge id="8407" source="Ghostery" target="Internet privacy"></edge>
+      <edge id="8408" source="Ghostery" target="Internet security"></edge>
+      <edge id="8409" source="Ghostery" target="Mozilla"></edge>
+      <edge id="8410" source="Ghostery" target="Opera (web browser)"></edge>
+      <edge id="8411" source="Ghostery" target="Privacy Badger"></edge>
+      <edge id="8412" source="Ghostery" target="Web beacon"></edge>
+      <edge id="8413" source="Privacy by design" target="Internet privacy"></edge>
+      <edge id="8414" source="Privacy by design" target="Privacy-enhancing technologies"></edge>
+      <edge id="8415" source="Privacy by design" target="Privacy"></edge>
+      <edge id="8416" source="Privacy in Australian law" target="Privacy law"></edge>
+      <edge id="8417" source="Privacy in Australian law" target="Privacy"></edge>
+      <edge id="8418" source="Internet censorship circumvention" target="Anonymity"></edge>
+      <edge id="8419" source="Internet censorship circumvention" target="Anonymizer"></edge>
+      <edge id="8420" source="Internet censorship circumvention" target="Anonymous P2P"></edge>
+      <edge id="8421" source="Internet censorship circumvention" target="Flash proxy"></edge>
+      <edge id="8422" source="Internet censorship circumvention" target="Freenet"></edge>
+      <edge id="8423" source="Internet censorship circumvention" target="Google"></edge>
+      <edge id="8424" source="Internet censorship circumvention" target="I2P"></edge>
+      <edge id="8425" source="Internet censorship circumvention" target="Internet censorship"></edge>
+      <edge id="8426" source="Internet censorship circumvention" target="Internet privacy"></edge>
+      <edge id="8427" source="Internet censorship circumvention" target="IP address"></edge>
+      <edge id="8428" source="Internet censorship circumvention" target="Java Anon Proxy"></edge>
+      <edge id="8429" source="Internet censorship circumvention" target="Open Technology Fund"></edge>
+      <edge id="8430" source="Internet censorship circumvention" target="Proxy server"></edge>
+      <edge id="8431" source="Internet censorship circumvention" target="Tor (anonymity network)"></edge>
+      <edge id="8432" source="Internet censorship circumvention" target="Virtual private network"></edge>
+      <edge id="8433" source="Bank secrecy" target="Privacy law"></edge>
+      <edge id="8434" source="Bank secrecy" target="Privacy"></edge>
+      <edge id="8435" source="Cryptocat" target="Freedom of information"></edge>
+      <edge id="8436" source="Cryptocat" target="Internet privacy"></edge>
+      <edge id="8437" source="Cryptocat" target="Signal (software)"></edge>
+      <edge id="8438" source="Content Security Policy" target="Computer security"></edge>
+      <edge id="8439" source="Content Security Policy" target="Cross-site scripting"></edge>
+      <edge id="8440" source="Content Security Policy" target="Firefox"></edge>
+      <edge id="8441" source="Content Security Policy" target="Google Chrome"></edge>
+      <edge id="8442" source="Content Security Policy" target="HTML5"></edge>
+      <edge id="8443" source="Content Security Policy" target="Opera (web browser)"></edge>
+      <edge id="8444" source="Comparison of web search engines" target="DuckDuckGo"></edge>
+      <edge id="8445" source="Comparison of web search engines" target="Filter bubble"></edge>
+      <edge id="8446" source="Comparison of web search engines" target="HTTP cookie"></edge>
+      <edge id="8447" source="Comparison of web search engines" target="Internet censorship"></edge>
+      <edge id="8448" source="Comparison of web search engines" target="Internet privacy"></edge>
+      <edge id="8449" source="Comparison of web search engines" target="Proxy server"></edge>
+      <edge id="8450" source="Comparison of web search engines" target="Tor (anonymity network)"></edge>
+      <edge id="8451" source="Comparison of web search engines" target="Web search engine"></edge>
+      <edge id="8452" source="User profile" target="Internet privacy"></edge>
+      <edge id="8453" source="User profile" target="Personally identifiable information"></edge>
+      <edge id="8454" source="Mailbox provider" target="Internet privacy"></edge>
+      <edge id="8455" source="Mailbox provider" target="Internet service provider"></edge>
+      <edge id="8456" source="Mozilla" target="Firefox"></edge>
+      <edge id="8457" source="Mozilla" target="Google"></edge>
+      <edge id="8458" source="Mozilla" target="HTML5"></edge>
+      <edge id="8459" source="Mozilla" target="Internet privacy"></edge>
+      <edge id="8460" source="Mozilla" target="IPhone"></edge>
+      <edge id="8461" source="Mozilla" target="Mozilla Corporation"></edge>
+      <edge id="8462" source="Mozilla" target="World Wide Web"></edge>
+      <edge id="8463" source="Snapchat" target="Apple Inc."></edge>
+      <edge id="8464" source="Snapchat" target="Facebook"></edge>
+      <edge id="8465" source="Snapchat" target="Twitter"></edge>
+      <edge id="8466" source="Mug shot publishing industry" target="Google"></edge>
+      <edge id="8467" source="Web beacon" target="HTTP cookie"></edge>
+      <edge id="8468" source="Web beacon" target="Internet privacy"></edge>
+      <edge id="8469" source="Web beacon" target="IP address"></edge>
+      <edge id="8470" source="Web beacon" target="Opera (web browser)"></edge>
+      <edge id="8471" source="Web beacon" target="Phishing"></edge>
+      <edge id="8472" source="Web beacon" target="Proxy server"></edge>
+      <edge id="8473" source="Web beacon" target="Website visitor tracking"></edge>
+      <edge id="8474" source="Web beacon" target="Web storage"></edge>
+      <edge id="8475" source="Flash proxy" target="Cryptocat"></edge>
+      <edge id="8476" source="Flash proxy" target="Freedom of information"></edge>
+      <edge id="8477" source="Flash proxy" target="Internet censorship"></edge>
+      <edge id="8478" source="Flash proxy" target="Internet privacy"></edge>
+      <edge id="8479" source="Flash proxy" target="IP address"></edge>
+      <edge id="8480" source="Flash proxy" target="Proxy server"></edge>
+      <edge id="8481" source="Flash proxy" target="Tor (anonymity network)"></edge>
+      <edge id="8482" source="Helen Nissenbaum" target="Firefox"></edge>
+      <edge id="8483" source="Helen Nissenbaum" target="Google Chrome"></edge>
+      <edge id="8484" source="Helen Nissenbaum" target="Internet privacy"></edge>
+      <edge id="8485" source="Helen Nissenbaum" target="Opera (web browser)"></edge>
+      <edge id="8486" source="Helen Nissenbaum" target="Privacy law"></edge>
+      <edge id="8487" source="Helen Nissenbaum" target="Privacy"></edge>
+      <edge id="8488" source="The Guardian Project (software)" target="Cryptocat"></edge>
+      <edge id="8489" source="The Guardian Project (software)" target="Freedom of information"></edge>
+      <edge id="8490" source="The Guardian Project (software)" target="Google"></edge>
+      <edge id="8491" source="The Guardian Project (software)" target="Internet privacy"></edge>
+      <edge id="8492" source="The Guardian Project (software)" target="Open Technology Fund"></edge>
+      <edge id="8493" source="The Guardian Project (software)" target="Signal (software)"></edge>
+      <edge id="8494" source="The Guardian Project (software)" target="Tor (anonymity network)"></edge>
+      <edge id="8495" source="PRISM (surveillance program)" target="Apple Inc."></edge>
+      <edge id="8496" source="PRISM (surveillance program)" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="8497" source="PRISM (surveillance program)" target="Data Protection Directive"></edge>
+      <edge id="8498" source="PRISM (surveillance program)" target="Digital rights"></edge>
+      <edge id="8499" source="PRISM (surveillance program)" target="Facebook"></edge>
+      <edge id="8500" source="PRISM (surveillance program)" target="Google"></edge>
+      <edge id="8501" source="PRISM (surveillance program)" target="Mass surveillance"></edge>
+      <edge id="8502" source="PRISM (surveillance program)" target="Surveillance"></edge>
+      <edge id="8503" source="PRISM (surveillance program)" target="Tempora"></edge>
+      <edge id="8504" source="PRISM (surveillance program)" target="World Wide Web"></edge>
+      <edge id="8505" source="Tempora" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="8506" source="Tempora" target="Internet"></edge>
+      <edge id="8507" source="Tempora" target="Internet privacy"></edge>
+      <edge id="8508" source="Tempora" target="Mass surveillance in the United Kingdom"></edge>
+      <edge id="8509" source="Tempora" target="PRISM (surveillance program)"></edge>
+      <edge id="8510" source="Tempora" target="Surveillance"></edge>
+      <edge id="8511" source="Tempora" target="Website visitor tracking"></edge>
+      <edge id="8512" source="Bitmessage" target="Anonymous P2P"></edge>
+      <edge id="8513" source="Bitmessage" target="Freenet"></edge>
+      <edge id="8514" source="Bitmessage" target="I2P"></edge>
+      <edge id="8515" source="Bitmessage" target="Internet privacy"></edge>
+      <edge id="8516" source="Mass surveillance in the United States" target="Apple Inc."></edge>
+      <edge id="8517" source="Mass surveillance in the United States" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="8518" source="Mass surveillance in the United States" target="Facebook"></edge>
+      <edge id="8519" source="Mass surveillance in the United States" target="Google"></edge>
+      <edge id="8520" source="Mass surveillance in the United States" target="IP address"></edge>
+      <edge id="8521" source="Mass surveillance in the United States" target="IPhone"></edge>
+      <edge id="8522" source="Mass surveillance in the United States" target="Mass surveillance in the United Kingdom"></edge>
+      <edge id="8523" source="Mass surveillance in the United States" target="PRISM (surveillance program)"></edge>
+      <edge id="8524" source="Mass surveillance in the United States" target="United States Senate Committee on the Judiciary"></edge>
+      <edge id="8525" source="Mass surveillance in the United Kingdom" target="Data Protection Directive"></edge>
+      <edge id="8526" source="Mass surveillance in the United Kingdom" target="Internet censorship in the United Kingdom"></edge>
+      <edge id="8527" source="Mass surveillance in the United Kingdom" target="Internet service provider"></edge>
+      <edge id="8528" source="Mass surveillance in the United Kingdom" target="Mass surveillance"></edge>
+      <edge id="8529" source="Mass surveillance in the United Kingdom" target="PRISM (surveillance program)"></edge>
+      <edge id="8530" source="Mass surveillance in the United Kingdom" target="Privacy International"></edge>
+      <edge id="8531" source="Mass surveillance in the United Kingdom" target="Privacy"></edge>
+      <edge id="8532" source="Mass surveillance in the United Kingdom" target="Surveillance"></edge>
+      <edge id="8533" source="Mass surveillance in the United Kingdom" target="Tempora"></edge>
+      <edge id="8534" source="Wickr" target="Internet privacy"></edge>
+      <edge id="8535" source="Right to be forgotten" target="Data Protection Directive"></edge>
+      <edge id="8536" source="Right to be forgotten" target="Digital privacy"></edge>
+      <edge id="8537" source="Right to be forgotten" target="Google"></edge>
+      <edge id="8538" source="Right to be forgotten" target="Internet"></edge>
+      <edge id="8539" source="Right to be forgotten" target="Internet privacy"></edge>
+      <edge id="8540" source="MetaGer" target="Tor (anonymity network)"></edge>
+      <edge id="8541" source="MetaGer" target="Web search engine"></edge>
+      <edge id="8542" source="Cybersecurity Information Sharing Act" target="Anti-Counterfeiting Trade Agreement"></edge>
+      <edge id="8543" source="Cybersecurity Information Sharing Act" target="Apple Inc."></edge>
+      <edge id="8544" source="Cybersecurity Information Sharing Act" target="Civil liberties"></edge>
+      <edge id="8545" source="Cybersecurity Information Sharing Act" target="Communications Assistance for Law Enforcement Act"></edge>
+      <edge id="8546" source="Cybersecurity Information Sharing Act" target="Facebook"></edge>
+      <edge id="8547" source="Cybersecurity Information Sharing Act" target="Google"></edge>
+      <edge id="8548" source="Cybersecurity Information Sharing Act" target="Internet privacy"></edge>
+      <edge id="8549" source="Cybersecurity Information Sharing Act" target="Reddit"></edge>
+      <edge id="8550" source="Cybersecurity Information Sharing Act" target="Twitter"></edge>
+      <edge id="8551" source="Canvas fingerprinting" target="Evercookie"></edge>
+      <edge id="8552" source="Canvas fingerprinting" target="HTML5"></edge>
+      <edge id="8553" source="Canvas fingerprinting" target="Privacy Badger"></edge>
+      <edge id="8554" source="Canvas fingerprinting" target="Tor (anonymity network)"></edge>
+      <edge id="8555" source="Canvas fingerprinting" target="Web storage"></edge>
+      <edge id="8556" source="Privacy Badger" target="Disconnect Mobile"></edge>
+      <edge id="8557" source="Privacy Badger" target="Ghostery"></edge>
+      <edge id="8558" source="Privacy Badger" target="Google Chrome"></edge>
+      <edge id="8559" source="Privacy Badger" target="Internet privacy"></edge>
+      <edge id="8560" source="Privacy Badger" target="Opera (web browser)"></edge>
+      <edge id="8561" source="Disconnect Mobile" target="Ad blocking"></edge>
+      <edge id="8562" source="Disconnect Mobile" target="Firefox"></edge>
+      <edge id="8563" source="Disconnect Mobile" target="IPhone"></edge>
+      <edge id="8564" source="Disconnect Mobile" target="Privacy Badger"></edge>
+      <edge id="8565" source="Disconnect Mobile" target="Tor (anonymity network)"></edge>
+      <edge id="8566" source="Disconnect Mobile" target="Web beacon"></edge>
+      <edge id="8567" source="Disconnect Mobile" target="Website visitor tracking"></edge>
+      <edge id="8568" source="Signal (software)" target="Cryptocat"></edge>
+      <edge id="8569" source="Signal (software)" target="Internet privacy"></edge>
+      <edge id="8570" source="Signal (software)" target="IP address"></edge>
+      <edge id="8571" source="Signal (software)" target="Open Technology Fund"></edge>
+      <edge id="8572" source="Signal (software)" target="Tails (operating system)"></edge>
+      <edge id="8573" source="Signal (software)" target="Tor (anonymity network)"></edge>
+      <edge id="8574" source="Signal (software)" target="Twitter"></edge>
+      <edge id="8575" source="Signal (software)" target="WebRTC"></edge>
+      <edge id="8576" source="Open Technology Fund" target="Cryptocat"></edge>
+      <edge id="8577" source="Open Technology Fund" target="Freedom of information"></edge>
+      <edge id="8578" source="Open Technology Fund" target="Google"></edge>
+      <edge id="8579" source="Open Technology Fund" target="Internet censorship circumvention"></edge>
+      <edge id="8580" source="Open Technology Fund" target="Internet privacy"></edge>
+      <edge id="8581" source="Open Technology Fund" target="Mass surveillance"></edge>
+      <edge id="8582" source="Open Technology Fund" target="Surveillance"></edge>
+      <edge id="8583" source="Open Technology Fund" target="Tails (operating system)"></edge>
+      <edge id="8584" source="Open Technology Fund" target="The Guardian Project (software)"></edge>
+      <edge id="8585" source="2017 Broadband Consumer Privacy Proposal repeal" target="Data Protection Directive"></edge>
+      <edge id="8586" source="2017 Broadband Consumer Privacy Proposal repeal" target="Google Chrome"></edge>
+      <edge id="8587" source="2017 Broadband Consumer Privacy Proposal repeal" target="Google"></edge>
+      <edge id="8588" source="2017 Broadband Consumer Privacy Proposal repeal" target="Internet privacy"></edge>
+      <edge id="8589" source="2017 Broadband Consumer Privacy Proposal repeal" target="Internet service provider"></edge>
+      <edge id="8590" source="2017 Broadband Consumer Privacy Proposal repeal" target="Jeff Flake"></edge>
+      <edge id="8591" source="2017 Broadband Consumer Privacy Proposal repeal" target="Mass surveillance"></edge>
+      <edge id="8592" source="2017 Broadband Consumer Privacy Proposal repeal" target="Privacy law"></edge>
+      <edge id="8593" source="2017 Broadband Consumer Privacy Proposal repeal" target="Tor (anonymity network)"></edge>
+      <edge id="8594" source="EPrivacy Regulation (European Union)" target="HTTP cookie"></edge>
+      <edge id="8595" source="Search Encrypt (Search Engine)" target="DuckDuckGo"></edge>
+      <edge id="8596" source="Search Encrypt (Search Engine)" target="Filter bubble"></edge>
+      <edge id="8597" source="Search Encrypt (Search Engine)" target="Google Chrome"></edge>
+      <edge id="8598" source="Search Encrypt (Search Engine)" target="Internet privacy"></edge>
+      <edge id="8599" source="Search Encrypt (Search Engine)" target="Web search engine"></edge>
+    </edges>
+  </graph>
+</gexf>

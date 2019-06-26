@@ -1,0 +1,10 @@
+Id	Score
+Algorithmic bias	3.16667
+Machine learning	2.5
+Ethics of artificial intelligence	1.0
+Artificial intelligence	0.66667
+Joseph Weizenbaum	0.33333
+Bias	0.33333
+Ground truth	0.33333
+Google	0.33333
+Internet of things	0.33333

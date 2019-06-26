@@ -1,0 +1,113 @@
+Id	Score
+Cyberbullying	64.16667
+Social media	6.16667
+Internet	6.0
+Suicide of Megan Meier	4.83333
+Bullying	4.33333
+Cyberstalking	3.5
+Anonymous social media	3.33333
+Online community	3.16667
+Internet troll	2.66667
+Suicide of Ryan Halligan	2.5
+4chan	2.33333
+Online game	2.16667
+Ask.fm	2.16667
+Yik Yak	2.16667
+World Wide Web	2.0
+Blog	2.0
+Social networking service	2.0
+Revenge porn	2.0
+Mobbing	1.83333
+2010s	1.66667
+Twitter	1.66667
+Cyber defamation law	1.66667
+Harassment	1.66667
+Cyber-bullying	1.66667
+Gamergate controversy	1.66667
+Flaming (Internet)	1.33333
+Doxing	1.33333
+Suicidal ideation	1.16667
+Threat	1.16667
+Adina's Deck	1.16667
+Anti-Bullying Day	1.16667
+Stop Cyberbullying Day	1.16667
+People v. Marquan M.	1.16667
+Email	1.0
+Microsoft	1.0
+Adolescence	1.0
+Anonymity	1.0
+Anti-Bullying Week	1.0
+Workplace bullying	1.0
+Video game culture	1.0
+Online disinhibition effect	1.0
+Anonymous (group)	1.0
+Tumblr	1.0
+United States v. Drew	1.0
+Suicide of Tyler Clementi	1.0
+Whisper (app)	1.0
+Online shaming	1.0
+Sarahah	1.0
+Parry Aftab	0.83333
+Act Against Bullying	0.83333
+Sexting	0.83333
+AOL	0.66667
+The New York Times	0.66667
+Internet service provider	0.66667
+Gay bashing	0.66667
+Computer Fraud and Abuse Act	0.66667
+Camera phone	0.66667
+Web 2.0	0.66667
+Internet safety	0.66667
+School bullying	0.66667
+Suicide	0.66667
+Cyber bullying	0.66667
+Stalking	0.66667
+Bullying and suicide	0.66667
+Cyberstalking legislation	0.66667
+Suicide of Amanda Todd	0.66667
+Brian Krzanich	0.66667
+Online predator	0.66667
+Crowdfunding	0.66667
+Online bullying	0.5
+First Lady of the United States	0.33333
+Hate speech	0.33333
+Misogyny	0.33333
+Mental disorder	0.33333
+2000s (decade)	0.33333
+LGBT	0.33333
+Essex Junction, Vermont	0.33333
+Peer pressure	0.33333
+McAfee	0.33333
+Sexual assault	0.33333
+Google bomb	0.33333
+KTTV	0.33333
+Depression (mood)	0.33333
+Griefer	0.33333
+Threats	0.33333
+Online harassment	0.33333
+Cyber Bullying	0.33333
+Violence against women	0.33333
+Viral video	0.33333
+Jack Thompson (activist)	0.33333
+Email bomb	0.33333
+Call of Duty	0.33333
+Cyberbully	0.33333
+Rose McGowan	0.33333
+Procter & Gamble	0.33333
+Jessica Valenti	0.33333
+Digital safety	0.33333
+Childnet	0.33333
+Alia2 Foundation	0.33333
+Cyberbully (2011 film)	0.33333
+Anita Sarkeesian	0.33333
+Cybercrime Prevention Act of 2012	0.33333
+Suicide of Rehtaeh Parsons	0.33333
+The Cybersmile Foundation	0.33333
+United States v. Lori Drew	0.33333
+Foundation Alia2	0.33333
+Suicide of Jadin Bell	0.33333
+Gaming culture	0.33333
+Cyber Civil Rights Initiative	0.33333
+Cyberbullying legislation	0.33333
+Harvey Weinstein sexual abuse allegations	0.33333
+ASKfm	0.33333

@@ -1,0 +1,61 @@
+Id	Score
+Online identity	26.5
+Digital identity	3.5
+Online identity management	3.16667
+Identity (social science)	2.83333
+Avatar (computing)	1.83333
+Digital footprint	1.83333
+User profile	1.83333
+Reputation	1.66667
+Online dating service	1.5
+Online chat	1.5
+Social software	1.33333
+Social networking service	1.33333
+Nymwars	1.16667
+Impression management	1.0
+Identity management	1.0
+LinkedIn	1.0
+OpenID	1.0
+Transgender	1.0
+Online participation	1.0
+Online and offline	0.83333
+On the Internet, nobody knows you're a dog	0.83333
+Authentication	0.66667
+Identity (philosophy)	0.66667
+WordPress	0.66667
+Social web	0.66667
+Tag (metadata)	0.66667
+Personal branding	0.66667
+Identity 2.0	0.66667
+Light-Weight Identity	0.66667
+Proteus effect	0.66667
+SQRL	0.66667
+EverQuest	0.33333
+Privacy	0.33333
+Gender	0.33333
+Pseudonymity	0.33333
+Persona	0.33333
+Anonymity	0.33333
+Online community	0.33333
+Internet forum	0.33333
+Minority group	0.33333
+Virtual world	0.33333
+Reputation management	0.33333
+Sockpuppet (Internet)	0.33333
+Personally identifiable information	0.33333
+Cyberpsychology	0.33333
+Facebook	0.33333
+Online disinhibition effect	0.33333
+Munchausen by Internet	0.33333
+Web presence	0.33333
+Reality mining	0.33333
+Sociology	0.33333
+Internet Safety Act	0.33333
+Child pornography	0.33333
+Cross-site request forgery	0.33333
+Google+	0.33333
+Social identity	0.33333
+Brand page	0.33333
+Snapchat	0.33333
+Catfishing	0.33333
+Münchausen by Internet	0.33333

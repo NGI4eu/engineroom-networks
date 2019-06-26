@@ -1,0 +1,56 @@
+Id	Score
+Internet governance	48.0
+Internet Engineering Task Force	8.16667
+Internet Society	8.16667
+Internet Assigned Numbers Authority	7.83333
+Internet Governance Forum	7.16667
+World Summit on the Information Society	5.5
+Request for Comments	4.5
+History of the Internet	3.83333
+Regional Internet registry	3.0
+Working Group on Internet Governance	2.83333
+Laura DeNardis	2.5
+Internet	2.33333
+ICANN	2.33333
+Internet organizations	2.0
+International Telecommunication Union	1.66667
+Global Commission on Internet Governance	1.5
+IPv6	1.33333
+Internet protocol suite	1.33333
+Jon Postel	1.33333
+Asia-Pacific Network Information Centre	1.33333
+Internet Architecture Board	1.33333
+Digital divide	1.33333
+Montevideo Statement on the Future of Internet Cooperation	1.33333
+IPv4	1.0
+Namespace	1.0
+Internet Engineering Steering Group	1.0
+Charles Babbage Institute	1.0
+Internet Governance	1.0
+National Internet registry	1.0
+NetMundial Initiative	1.0
+American Registry for Internet Numbers	0.66667
+World Wide Web Consortium	0.66667
+Domain name	0.66667
+BBN Technologies	0.66667
+ARPANET	0.66667
+Réseaux IP Européens Network Coordination Centre	0.66667
+Port (computer networking)	0.66667
+Internet censorship	0.66667
+Scott Bradner	0.66667
+DARPA	0.33333
+Kofi Annan	0.33333
+United Nations	0.33333
+RIPE	0.33333
+National Science Foundation	0.33333
+Internet Research Task Force	0.33333
+DNS root zone	0.33333
+Governance	0.33333
+Number Resource Organization	0.33333
+Summit (meeting)	0.33333
+Regional Internet Registries	0.33333
+American University School of Communication	0.33333
+Regional Internet Registry	0.33333
+Internet Network Operators' Groups	0.33333
+Global network	0.33333
+Montevideo Statement	0.33333
