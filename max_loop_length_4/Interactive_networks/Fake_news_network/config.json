@@ -10,7 +10,7 @@
   "text": {
     "more": "Network of links between Wikipedia articles around concept Fake news.\nAll articles connected to Net neutrality through a loop of length 4 or shorter are shown.\nLarger node size and label correspond to higher LoopRank score. \n",
     "intro": "Network of links between Wikipedia articles around Fake news",
-    "title": "Net neutrality"
+    "title": "Fake news"
   },
   "legend": {
     "edgeLabel": "Hyperlink between two articles",

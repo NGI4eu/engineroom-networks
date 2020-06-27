@@ -8,9 +8,9 @@
     "text": "David Laniado"
   },
   "text": {
-    "more": "Network of links between Wikipedia articles around concept Internet_governance.\nAll articles connected to Net neutrality through a loop of length 4 or shorter are shown.\nLarger node size and label correspond to higher LoopRank score. \n",
-    "intro": "Network of Wikipedia links around concept Internet_governance",
-    "title": "Internet_governance"
+    "more": "Network of links between Wikipedia articles around concept Internet governance.\nAll articles connected to Net neutrality through a loop of length 4 or shorter are shown.\nLarger node size and label correspond to higher LoopRank score. \n",
+    "intro": "Network of Wikipedia links around concept Internet governance",
+    "title": "Internet governance"
   },
   "legend": {
     "edgeLabel": "Hyperlink between two articles",
